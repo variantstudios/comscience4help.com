@@ -1,0 +1,38 @@
+.footer-wrapper {
+    background-color: $color-two;
+    .subpage {
+        background: none;
+        //padding-top: 1rem;
+    }
+    // margin: 2rem 0 0 0;
+    .footer-inner.clearfix.container-padding-medium {
+        padding-bottom: 0;
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            padding-bottom: 2rem;
+        }
+    }
+    .footer-inner {
+        span {
+            color: #fff;
+            a {
+                color: #fff;
+            }
+        }
+        .left {
+            font-size: .8rem;
+            @include breakpoint(1200px, $no-query: ".no-mq") {
+                @include grid-span(6, 1, $gutter: 0);
+                text-align: left;
+            }
+            text-align: center;
+        }
+        .right {
+            font-size: .8rem;
+            @include breakpoint(1200px, $no-query: ".no-mq") {
+                @include grid-span(6, 7, $gutter: 0);
+                text-align: right;
+            }
+            text-align: center;
+        }
+    }
+}

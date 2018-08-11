@@ -1,0 +1,29 @@
+- text: Development
+  url: /development/
+  subitems:
+    - text: Overview
+      url: /development/
+    - text: Properties
+      url: /development/assets/
+    - text: Contact
+      url: /development/contact/
+- text: Property Management
+  url: /property-management/
+  subitems:
+    - text: Overview
+      url: /property-management/
+    - text: Properties
+      url: /property-management/assets/
+    - text: Contact
+      url: /property-management/contact/
+- text: General Contracting
+  url: /general-contracting/
+  subitems:
+    - text: Overview
+      url: /general-contracting/
+    - text: Projects
+      url: /general-contracting/assets/
+    - text: Contact
+      url: /general-contracting/contact/
+- text: Industry Updates
+  url: /blog/

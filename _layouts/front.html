@@ -1,0 +1,28 @@
+--- 
+layout: default 
+---
+
+<div class="subpage wrap clearfix">
+    <div class="logos">
+        {% for company in page.companies %}
+        <a href="{{company.link}}" class="gys-logo"><img src="{{company.logo_image}}" alt="{{company.title}}" /></a>
+        {% endfor %}
+    </div>
+</div>
+<div class="figures">
+    <div class="subpage wrap clearfix">
+        {% for figure in page.figures %}
+        <div class="figure">
+            <span class="number">{{figure.number_html}}</span>
+            <span class="title">{{figure.title}}</span>
+        </div>
+        {% endfor %}
+    </div>
+ </div>   
+<div class="subpage wrap clearfix">
+    <div class="content editable">
+	<h3>Independent Self-Storage Entrepreneurs</h3>
+	<p>GYS companies are setup as fully integrated self-storage specialist firms. The comprehensive, vertical integration of GYS companies comprises development and entitlement services, general contracting and construction management, and comprehensive property management. In addition, the principles of the company are also investors in these self-storage projects. We handle all components at all stages of the project.</p>
+	<p>After two plus decades of continual innovation in the development and management business, we have cultivated and formalized a series of methods for developing, building, operating, and owning self-storage properties. Our system yields consistently strong results across a broad range of facility sizes, classes, and geographies.</p>
+</div>
+</div>

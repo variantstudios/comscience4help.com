@@ -1,0 +1,14 @@
+<header itemscope class="wrap clearfix siteheader">
+    <div class="clearfix">
+        <div class="site-name logo">
+            <a href="/"><img src="{% if page._gys_company == 'development' %}/assets/images/logos/gys-dev-logo.svg{% elsif page._gys_company == 'property-management' %}/assets/images/logos/gys-llc-logo.svg{% elsif page._gys_company == 'general-contracting' %}/assets/images/logos/gys-gc-logo.svg{% else %}/assets/images/logo.svg{% endif %}"
+                    alt="{{site.title}}"></a>
+        </div>
+        <nav class="main-nav">
+            <input type="checkbox" class="menu-btn" id="menu-btn" />
+            <label class="menu-icon" for="menu-btn">
+                    <span class="navicon"></span>
+                </label> {% include nav.html nav=site.data.main-menu %}
+        </nav>
+    </div>
+</header>
