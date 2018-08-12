@@ -5,24 +5,37 @@ layout: page
 <section class="blog-wrapper wrap">
     <div class="blog-item clearfix">
         <p>
-            <a href="/blog/">
-                < Back to all blogs</a>
+            {% if page.categories contains 'blog' %}<a href="/blog/">< Back to the Blog</a>
+            {% else if page.categories contains 'news'%}
+            <a href="/news/">< Back to News</a>
+            {% else %}
+            {% endif %}
         </p>
         <div class="left-image">
             {% if page.image_path %}
             <img src="{{ page.image_path }}" alt="{{ page.title }}"> {% endif %}
         </div>
         <div class="right-blog">
-            
-                <h3><a href="{{ post.url }}">{{ page.title }}</a></h3>
+            <h3><a href="{{ post.url }}">{{ page.title }}</a></h3>
             <p>posted {{ page.date | date: "%a, %b %d, %Y" }}</p>
-
-            
             {{ content }}
         </div>
     </div>
     <nav class="pagination" role="navigation">
-        <ul class="pager">
+    {% if page.next_in_category != nil %}
+	<a href="{{page.next_in_category.url}}" class="next-link" title="{{page.next_in_category.title}}">Older Post</a>
+{% endif %}
+{% if page.previous_in_category != nil %}
+	<a href="{{page.previous_in_category.url}}" class="previous-link" title="{{page.previous_in_category.title}}">Newer Post</a>
+{% endif %}
+        {% comment %} {% assign cat = page.categories %}
+        {{cat}}
+        {% if page.next and page.next.categories contains cat %}
+        <a href="{{ page.next.url }}">Next Post - {{page.next.categories}}</a> 
+        {% else if page.previous and page.previous.categories contains cat %}
+        <a href="{{ page.previous.url }}">Previous Post {{page.previous.categories}}</a> {% endif %} {% endcomment %}
+        <!-- <ul class="pager">
+
             {% if page.previous.url %}
             <li class="previous left">
                 <a class="prev" href="{{page.previous.url}}">&laquo; {{ page.previous.title | truncate: 50 }}</a> {% endif %} {% if page.next.url %}
@@ -30,9 +43,10 @@ layout: page
             <li class="next right">
                 <a class="next" href="{{page.next.url}}">{{ page.next.title | truncate: 50 }} &raquo;</a>
             </li>
+
         </ul>
         {% endif %}
-        </ul>
+        </ul> -->
     </nav>
     <!-- /.pagination -->
     {% include comments.html %}
