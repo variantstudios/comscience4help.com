@@ -12,7 +12,10 @@
         }
     }
     .footer-inner {
-        span {
+        .subpage {
+                margin: 0 auto 1rem auto;
+        }
+        span, div {
             color: #fff;
             a {
                 color: #fff;

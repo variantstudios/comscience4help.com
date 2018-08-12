@@ -7,6 +7,7 @@ header.siteheader {
         background: none;
     }
     .logo {
+        img { width: 90px; }
         text-align: center;
         @include breakpoint($bp-medium, $no-query: ".no-mq") {
             @include grid-span(2, 1, $gutter: 0);

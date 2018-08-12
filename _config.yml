@@ -3,11 +3,9 @@ title: "Communication Science"
 email: "team@variantstudios.com"
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog/ - keep empty!
-#url: "http://www.comscience4help.com" # the base hostname & protocol for your site - don't include the forward slash
+url: "https://casual-candle.cloudvent.net" # the base hostname & protocol for your site - don't include the forward slash
 #timezone: America/Denver - Don't set for CloudCannon...for reasons.
 version: "3.8.2" # the version of jekyll
-
-collections_dir: "_collections"
 
 #CloudCannon defaults
 uploads_dir: "assets/images"
@@ -34,12 +32,12 @@ compress_html:
 
 #Collections
 collections:
-  assets:
-    output: false
-    _hide_content: true
+  pages:
+    output: true
+    permalink: '/:title/'
   posts:
     output: true
-    permalink: '/blog/:title/'
+    permalink: '/:categories/:title/'
 
 defaults:
   -
@@ -53,15 +51,15 @@ defaults:
           uploads_dir: "assets/images/posts/"
   -
     scope:
-      type: assets
+      type: pages
     values:
       layout: page
+      class: page
 
 # Hard-Coded Values
-gys_companies:
-  - 'development'
-  - 'property-management'
-  - 'general-contracting'
+categories:
+  - 'blog'
+  - 'news'
   
 # Cloudcannon Options
 _options:
@@ -69,11 +67,22 @@ _options:
     bold: true
     table: true
   _text:
+    bold: true
     italic: true
+    link: true
   _block:
-    # format: p h3
-    # undo: true
-    # redo: true
+    removeformat: true
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    numberedlist: true
+    bulletedlist: true
+    outdent: true
+    indent: true
+    table: true
+    link: true
+    image: true
+    styles: /assets/css/wysiwyg.css
+    embed: true
     left: align-to-left
     center: align-to-center
     right: align-to-right
@@ -89,6 +98,10 @@ _options:
     link: true
     image: true
     styles: /assets/css/wysiwyg.css
+    embed: true
+    left: align-to-left
+    center: align-to-center
+    right: align-to-right
   share_image_path:
     width: 1200
     height: 1200
@@ -103,15 +116,14 @@ _comments:
   opening: "This is optional. If it applies please use the Month abbreviation and year. ie: Dec 2018"
 
 # Cloudinary
-cloudinaryurl: 'https://res.cloudinary.com/grow-your-storage/'
+#cloudinaryurl: 'https://res.cloudinary.com/grow-your-storage/'
 
 # Typekit
-typekit: "dan8xfd"
+#typekit: "dan8xfd"
 
 # Google Analytics 
-google_analytics_tracking_id: 'UA-121177359-1'
+#google_analytics_tracking_id: 'UA-121177359-1'
 
-include: ["_collections"]
 
 exclude: [
   "collections",

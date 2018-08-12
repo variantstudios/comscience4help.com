@@ -876,10 +876,13 @@ iframe {
 .no-mq .footer-wrapper .footer-inner.clearfix.container-padding-medium {
   padding-bottom: 2rem;
 }
-.footer-wrapper .footer-inner span {
+.footer-wrapper .footer-inner .subpage {
+  margin: 0 auto 1rem auto;
+}
+.footer-wrapper .footer-inner span, .footer-wrapper .footer-inner div {
   color: #fff;
 }
-.footer-wrapper .footer-inner span a {
+.footer-wrapper .footer-inner span a, .footer-wrapper .footer-inner div a {
   color: #fff;
 }
 .footer-wrapper .footer-inner .left {
@@ -944,6 +947,9 @@ header.siteheader {
 }
 header.siteheader .logo {
   text-align: center;
+}
+header.siteheader .logo img {
+  width: 90px;
 }
 @media (min-width: 50em) {
   header.siteheader .logo {
@@ -1514,157 +1520,6 @@ form .align-right {
 body.front .subpage {
   margin-bottom: 0;
 }
-body.front #site-header {
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover;
-  min-height: 220px;
-}
-@media (min-width: 37.5em) {
-  body.front #site-header {
-    min-height: 280px;
-  }
-}
-.no-mq body.front #site-header {
-  min-height: 280px;
-}
-@media (min-width: 25em) {
-  body.front #site-header {
-    min-height: 340px;
-  }
-}
-.no-mq body.front #site-header {
-  min-height: 340px;
-}
-@media (min-width: 50em) {
-  body.front #site-header {
-    min-height: 490px;
-  }
-}
-.no-mq body.front #site-header {
-  min-height: 490px;
-}
-@media (min-width: 1200px) {
-  body.front #site-header {
-    min-height: 660px;
-  }
-}
-.no-mq body.front #site-header {
-  min-height: 660px;
-}
-body.front .logos {
-  text-align: center;
-}
-body.front .logos .gys-logo {
-  margin: 0 auto;
-  padding: 0 .5rem;
-}
-@media (min-width: 50em) {
-  body.front .logos {
-    text-align: center;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-        -ms-flex-flow: row wrap;
-            flex-flow: row wrap;
-    -ms-flex-line-pack: center;
-        align-content: center;
-  }
-  body.front .logos .gys-logo {
-    -webkit-box-flex: 1;
-        -ms-flex: 1;
-            flex: 1;
-    margin: 0 .5rem;
-    padding: 0;
-  }
-}
-.no-mq body.front .logos {
-  text-align: center;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-flow: row wrap;
-          flex-flow: row wrap;
-  -ms-flex-line-pack: center;
-      align-content: center;
-}
-.no-mq body.front .logos .gys-logo {
-  -webkit-box-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
-  margin: 0 .5rem;
-  padding: 0;
-}
-body.front .figures {
-  background: #919396;
-  width: 100%;
-  position: relative;
-  z-index: 1;
-}
-body.front .figures:after {
-  background: inherit;
-  content: '';
-  display: block;
-  height: 50%;
-  left: 0;
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  -webkit-transform: skewY(-1.5deg);
-      -ms-transform: skewY(-1.5deg);
-          transform: skewY(-1.5deg);
-  -webkit-transform-origin: 100%;
-      -ms-transform-origin: 100%;
-          transform-origin: 100%;
-  z-index: -1;
-  -webkit-backface-visibility: hidden;
-}
-body.front .figures .subpage {
-  background: none;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-flow: row wrap;
-          flex-flow: row wrap;
-  -ms-flex-line-pack: center;
-      align-content: center;
-}
-body.front .figures .figure {
-  color: #fff;
-  -webkit-box-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
-  text-align: center;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
-body.front .figures .figure .number {
-  display: block;
-  width: 100%;
-  font-size: 3rem;
-  font-weight: 700;
-  min-height: 100px;
-}
-body.front .figures .figure .title {
-  display: block;
-  font-size: .8rem;
-  width: 100%;
-}
 
 .center-container {
   margin: 0 auto;
@@ -1953,13 +1808,6 @@ body.front .figures .figure .title {
   clear: none;
 }
 
-body.not-front .subpage-header {
-  background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  min-height: 300px;
-  position: relative;
-}
 @media (min-width: 50em) {
   body.not-front .with-sidebar .content {
     width: 74.46809%;

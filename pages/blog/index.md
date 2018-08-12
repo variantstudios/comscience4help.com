@@ -1,12 +1,11 @@
 ---
-title: Industry Updates
+title: Blog
 header_image: '/assets/images/headers/subpage-header.jpg'
 search_engine_optimization:
-  page_title: "Industry Updates"
+  page_title: "Blog"
   page_description: ""
-pagination:
-  enabled: true
+category: blog
 permalink: /blog/
-layout: blog
+layout: posts
 class: blog
 ---

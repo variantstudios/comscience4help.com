@@ -1,8 +1,6 @@
 ---
-title: 
-date: 
-categories:
+title:
 search_engine_optimization:
-  page_title: 
+  page_title:
   page_description:
 ---
