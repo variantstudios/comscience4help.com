@@ -4,7 +4,11 @@ layout: default
 <div class="subpage-header"></div>
 <main>
   <div class="subpage with-sidebar clearfix">
-    {% include_cached sidebar.html %}
+      <aside class="sidebar">
+          <div>
+              side bar
+          </div>
+      </aside>
      <div class="content clearfix">
       {{ content }}
     </div>
