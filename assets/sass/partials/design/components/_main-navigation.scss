@@ -1,5 +1,8 @@
 .main-nav {
     margin: 1.5rem 0 0 0;
+    border-top: solid #cec8c8 1px;
+    border-bottom: solid #cec8c8 1px;
+    background: #f1f1f1;
     #menu-btn,
     .navicon {
         display: none;
@@ -68,11 +71,11 @@
     }
     //
     &>ul.menu>li {
-        padding-bottom: 0;
-        margin-bottom: 0;
-        padding-top: 0;
-        margin-bottom: 0;
-        margin-top: 5px;
+        //padding-bottom: 0;
+        //margin-bottom: 0;
+        //padding-top: 0;
+        //margin-bottom: 0;
+        //margin-top: 5px;
         @include breakpoint($bp-medium, $no-query: '.no-mq') {
             &:last-child {
                 margin-right: 0;
@@ -81,6 +84,8 @@
         }
     }
     &>.menu {
+        
+
         padding: 0;
         font-family: $font-secondary;
         font-size: 1em;
@@ -92,43 +97,67 @@
         text-align: left;
         margin: 0 0 1rem 1rem;
         @include breakpoint($bp-medium, $no-query: '.no-mq') {
-            margin: 0;
+            max-width: 1200px;
+            margin: 0 auto;
             //text-align: right;
             opacity: 1;
             visibility: visible;
             display: block;
             background: none;
+            background: none;
+            display: flex;
+            justify-content: space-around;
         }
         @include breakpoint($bp-large, $no-query: '.no-mq') {
             //text-align: right;
         }
         li {
-            line-height: 1.3;
-            transition: all .5s ease;
+            //line-height: 1.3;
+            //transition: all .5s ease;
             list-style: none;
             margin: 0;
-            padding: 0;
+            //padding: 0;
             display: block;
             position: relative;
+
+            border-right: solid 1px #dedede;
+            flex: 1;
+            text-align: center;
+            justify-content: center;
+            align-content: center;
+            flex-direction: column;
+            
+            background-color: #f1f1f1;
+            &:first-child {
+                border-left: solid 1px #dedede;
+            }
             @include breakpoint($bp-medium, $no-query: '.no-mq') {
-                display: inline-block;
-                padding: .55em .5em;
+                //display: inline-block;
+                //padding: .55em .5em;
+                padding: 1rem 0;
             }
             @include breakpoint($bp-large, $no-query: '.no-mq') {
-                display: inline-block;
-                padding: .75em .6em;
+                //display: inline-block;
+                
             }
             &:first-child {
                 padding-left: 0;
             }
             a {
-                font-size: .9rem;
+                font-size: .8rem;
                 transition: color .5s ease;
                 padding: 0;
                 display: block;
                 color: #000;
                 text-transform: uppercase;
-                font-weight: 700;
+                //font-weight: 700;
+
+                text-align: center;
+                position: relative;
+                top: 50%;
+                -ms-transform: translateY(-50%);
+                -webkit-transform: translateY(-50%);
+                transform: translateY(-50%);
                 &:hover {
                     color: #373737;
                 }
@@ -139,7 +168,7 @@
                     font-size: .7rem;
                 }
                 @include breakpoint($bp-large, $no-query: '.no-mq') {
-                    font-size: .9rem;
+                    font-size: .8rem;
                 }
             }
             // Show DropDown Menu
