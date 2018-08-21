@@ -1,8 +1,13 @@
 --- 
 layout: default 
 ---
-<div class="subpage wrap clearfix">
-    <div class="content editable">
-    <p>Working collaboratively with you, Communication Science staff selects cost-efficient and timely methods to evaluate your communications and make recommendations to improve communications with your audiences—i.e., your publics, clients, or customers. Communication Science workshops and seminars will help your employees improve their professional, technical, and scientific writing, editing, and production skills.</p>
+<div class="subpage-header"></div>
+<main>
+  <div class="subpage with-sidebar clearfix">
+    {% include_cached sidebar.html %}
+     <div class="content clearfix">
+      {{ content }}
     </div>
-</div>
+  </div>
+</main>
+

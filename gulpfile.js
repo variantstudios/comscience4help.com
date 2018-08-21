@@ -89,7 +89,7 @@ gulp.task('watch', function () {
   gulp.watch(
     [
       '**.md', '**.html', '_layouts/**.html', '_includes/**.html', '_data/**',
-      'pages/**', 'assets/**.csv', 'assets/images/**', 'posts/**', 'development/**', 'general-contracting/**', 'property-management/**'
+      'pages/**', 'assets/**.csv', 'assets/images/**', '_posts/**', '_pages/**'
     ],
     ['jekyll-rebuild']
   );

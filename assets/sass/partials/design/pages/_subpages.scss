@@ -15,3 +15,21 @@ body.not-front {
         }
     }
 }
+
+body.front {
+    .subpage-header {
+
+    }
+    .with-sidebar {
+        .content {
+            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+                @include grid-span(9, 1);
+            }
+        }
+        .sidebar {
+            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+                @include grid-span(3, 10);
+            }
+        }
+    }
+}

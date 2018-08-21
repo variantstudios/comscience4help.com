@@ -93,14 +93,14 @@
         margin: 0 0 1rem 1rem;
         @include breakpoint($bp-medium, $no-query: '.no-mq') {
             margin: 0;
-            text-align: right;
+            //text-align: right;
             opacity: 1;
             visibility: visible;
             display: block;
             background: none;
         }
         @include breakpoint($bp-large, $no-query: '.no-mq') {
-            text-align: right;
+            //text-align: right;
         }
         li {
             line-height: 1.3;
@@ -118,9 +118,9 @@
                 display: inline-block;
                 padding: .75em .6em;
             }
-            // @include breakpoint(1200px, $no-query: '.no-mq') {
-            //     padding: .75em 1em;
-            // }
+            &:first-child {
+                padding-left: 0;
+            }
             a {
                 font-size: .9rem;
                 transition: color .5s ease;

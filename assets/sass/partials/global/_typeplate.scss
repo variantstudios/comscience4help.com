@@ -4,22 +4,34 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(/assets/fonts/opensans/mem8YaGs126MiZpBA-UFVZ0bf8pkAg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(/assets/fonts/opensans/mem5YaGs126MiZpBA-UN7rgOUuhpKKSTjw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
 $font-weight: normal;
 $line-height: 1.65;
 $mobile-font-size: 100;
 $mobile-font-base: 16 * ($mobile-font-size/100);
 $font-size: 112.5; // percentage value (16 * 112.5% = 18px)
 $font-base: 16 * ($font-size/100); // converts our percentage to a pixel value
-$font-family: 'azo-sans-web',
-Helvetica,
+$font-family: 'Open Sans',
 Arial,
 sans-serif;
-$font-secondary: 'azo-sans-web',
-Helvetica,
+$font-secondary: 'Open Sans',
 Arial,
 sans-serif;
-$heading-font-family: 'azo-sans-web',
-Helvetica,
+$heading-font-family: 'Open Sans',
 Arial,
 sans-serif;
 // $Paragraphs

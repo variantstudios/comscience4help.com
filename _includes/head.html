@@ -15,13 +15,12 @@
     <meta property="og:image" content="{{ site.url }}{{ include.share_image_path }}">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/print.css" media="print">
 
-{% if page.layout == 'front' %}
-{% else %}
-{% endif %}
+    {% if page.layout == 'front' %}
+    {% else %}
+    {% endif %}
 
-<!-- Apple Touch, Fav Icon, and Windows Tile -->
+    <!-- Apple Touch, Fav Icon, and Windows Tile -->
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 

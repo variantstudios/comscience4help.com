@@ -9,16 +9,16 @@ header.siteheader {
     .logo {
         img { width: 90px; }
         text-align: center;
-        @include breakpoint($bp-medium, $no-query: ".no-mq") {
-            @include grid-span(2, 1, $gutter: 0);
-        }
+        // @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        //     @include grid-span(2, 1, $gutter: 0);
+        // }
     }
     .main-nav {
         width: 100%;
         float: none;
-        @include breakpoint($bp-medium, $no-query: ".no-mq") {
-            @include grid-span(10, 3, $gutter: 0);
-        }
+        // @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        //     @include grid-span(10, 3, $gutter: 0);
+        // }
     }
 }
 

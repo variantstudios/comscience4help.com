@@ -19,47 +19,18 @@
 <script src="/assets/js/prod/modernizr-2.8.3.min.js"></script>
 <script src="/assets/js/prod/zepto.1.2.0.min.js"></script>
 <script src="/assets/js/prod/scripts.js"></script>
-{% if page.layout == 'page-sidebar' %}
-<script src="/assets/js/prod/sticky.js"></script>
-<script src="/assets/js/prod/sidebar.js"></script>
-{% endif %}
-<script>
-    (function(d) {
-        var config = {
-                kitId: '{{site.typekit}}',
-                scriptTimeout: 3000,
-                async: true
-            },
-            h = d.documentElement,
-            t = setTimeout(function() {
-                h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive";
-            }, config.scriptTimeout),
-            tk = d.createElement("script"),
-            f = false,
-            s = d.getElementsByTagName("script")[0],
-            a;
-        h.className += " wf-loading";
-        tk.src = 'https://use.typekit.net/' + config.kitId + '.js';
-        tk.async = true;
-        tk.onload = tk.onreadystatechange = function() {
-            a = this.readyState;
-            if (f || a && a != "complete" && a != "loaded") return;
-            f = true;
-            clearTimeout(t);
-            try {
-                Typekit.load(config)
-            } catch (e) {}
-        };
-        s.parentNode.insertBefore(tk, s)
-    })(document);
-</script>
 
-{% if page.layout == 'front' %} {% endif %} {% if include.class == 'contact' %}
+{% if page.layout == 'front' %} 
+{% endif %} 
+{% if include.class == 'contact' %}
 <script src="/assets/js/prod/contact.js"></script>
 <script src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit' async defer></script>
-{% endif %} {% comment %} {% if site.cloudinaryurl %}
+{% endif %} 
+{% comment %} {% if site.cloudinaryurl %}
 <script src="/assets/js/prod/cloudinary.js"></script>
-{% endif %} {% endcomment %} {% if include.google_analytics_tracking_id %}
+{% endif %} {% endcomment %} 
+
+{% if include.google_analytics_tracking_id %}
 <script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>
 <script>
     var galite = galite || {};
