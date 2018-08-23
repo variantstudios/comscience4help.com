@@ -1,6 +1,9 @@
 ---
 title: Evaluation & Research Services
-teaser_text:
+teaser_text: >-
+  Our research and evaluation services will help you develop a better
+  understanding of your audiences, so you can improve your websites, multimedia,
+  manuals, publications, presentations, and information campaigns.
 main_image: /assets/images/main-images/agenda-analysis-business-990818_Eval_Research.jpg
 search_engine_optimization:
   page_title:
@@ -12,7 +15,7 @@ layout: page
 
 Using a problem-solving, collaborative process, we obtain the information you need to improve your communications.
 
-----
+---
 
 ### Our services include
 
