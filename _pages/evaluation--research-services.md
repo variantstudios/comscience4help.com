@@ -1,5 +1,6 @@
 ---
 title: Evaluation & Research Services
+teaser_text:
 main_image: /assets/images/main-images/agenda-analysis-business-990818_Eval_Research.jpg
 search_engine_optimization:
   page_title:
