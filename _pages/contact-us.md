@@ -1,10 +1,12 @@
 ---
 title: Contact Us
-main_image: /assets/images/main-images/ComSci_Eval_Res_Srv_3Nov2014.jpg
+main_image: /assets/images/main-images/android-apps-blur-163065_contact_us.jpg
 search_engine_optimization:
-  page_title:
+  page_title: Contact Us
   page_description:
 layout: page
 ---
 
-Contact text goes here.
+# Contact Us
+
+Don Zimmerman, PhD<br>Phone &nbsp;970-420-6788<br>[E-mail](mailto:don@comscience4help.com)
