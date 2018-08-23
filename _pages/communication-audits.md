@@ -5,7 +5,7 @@ teaser_text: >-
   external communications, identify your organization’s communications strengths
   and weaknesses, and suggest strategies for improving your communications.
 main_image: >-
-  /assets/images/main-images/brainstorming-colleagues-communication-1204649_Workshops_Seminars.jpg
+  /assets/images/main-images/cardboard-communication-connecting-1246743_Comm_Audits.jpg
 search_engine_optimization:
   page_title: Usability Testing
   page_description:
@@ -30,4 +30,4 @@ Working with you, we use a problem-solving process to evaluate your organization
 * Recommend strategies for improving
 * Communications policies and procedures
 * Print and electronic communication production
-* Print and electronic communications &nbsp;
+* Print and electronic communications
