@@ -116,7 +116,7 @@ _comments:
   opening: "This is optional. If it applies please use the Month abbreviation and year. ie: Dec 2018"
 
 # Cloudinary
-#cloudinaryurl: 'https://res.cloudinary.com/grow-your-storage/'
+cloudinaryurl: 'https://res.cloudinary.com/communication-science-inc/'
 
 # Google Analytics 
 #google_analytics_tracking_id: 'UA-121177359-1'
