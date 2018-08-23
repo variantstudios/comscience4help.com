@@ -1,27 +1,37 @@
 ---
-title: Usability Testing
+title: Workshops & Seminars
 teaser_text: >-
-  By conducting usability testing of your websites, online media, and print
-  publications, we will help you learn how your audiences use your
-  communications, the problems they encounter, and how they try to solve
-  problems they encounter. We then recommend how to improve your communications.
-main_image: /assets/images/main-images/charts-computer-data-669615_research_tools.jpg
+  Our workshops and seminars will help your employees improve their
+  communication skills.
+main_image: >-
+  /assets/images/main-images/brainstorming-colleagues-communication-1204649_Workshops_Seminars.jpg
 search_engine_optimization:
   page_title: Usability Testing
   page_description:
 layout: page
 ---
 
-# Usability Testing
+# Workshops & Seminars
 
-For more than 25 years, we have conducted usability testing of websites, software, instructions, training materials, and other media. After collecting, analyzing, and interpreting data, we write a report documenting our findings and present the results to our clients in a problem-solving meeting. We can provide these services for you.
+We provide tailored workshops and topic-based seminars for your staff members to improve their writing, editing, and communication-production skills.
 
 ---
 
-### Our usability services include:
+### Tailored workshops
 
-Card Sorting: Using a multi-stage, group-interviewing process, we ask a sample of your audiences to organize and label key ideas for websites, software, manuals, and other communications.
+Working collaboratively with you, we use a problem-solving process to assess your staff members' communication knowledge and skills. Based on our findings, we develop targeted, hands-on workshops to improve your staff members' communication skills.
 
-Research-based Expert/Heuristic Review: Combining research-based guidelines and our 25 years of usability testing experience, we critique your websites, online media, and print communications. We then suggest strategies to improve the effectiveness of your communications.
+### Seminars
 
-Protocol Analysis: Working with you, we identify your website (or other media) users and create a series of tasks your users might try when visiting your website. We then recruit a sample of your website's users and ask them to talk aloud as they use your website. While they work, we observe and videotape them. Afterward, we interview them and ask them to complete a questionnaire about using your website.
+We provide topic-based seminars to help your staff members improve their understanding of communication processes and communication skills.
+
+Our seminars include:
+
+* E-mails (half day)
+* Technical & scientific editing (full day)
+* Technical report writing (full day)
+* Popularizing science & technology (full day)
+* Foundations of professional, technical, & scientific writing (full day)
+* Saying more with less—tight writing (full day)
+* Targeting/tailoring communications to audiences (half day)
+* Writing for the web (full day)
