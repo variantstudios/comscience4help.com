@@ -1,10 +1,10 @@
 ---
-title: Test News Post
-date: 2015-12-01 00:00:00
+title: Communication Science moved its Website
+date: 2018-06-01 00:00:00
 categories: news
 search_engine_optimization:
   page_title: 
   page_description:
 ---
 
-Test News post
+In summer 2018, Communication Science moved its Website to the CloudCannon content management software with support of Brent Robbins of Variant Studios of Fort Collins, Colorado.

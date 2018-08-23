@@ -6,7 +6,7 @@ body.not-front {
         .content {
             @include breakpoint($bp-medium, $no-query: ".no-mq") {
                 @include grid-span(9, 1);
-                border-right: solid 2px $color-red;
+                //border-right: solid 2px $color-red;
             }
         }
         .sidebar {
@@ -25,7 +25,7 @@ body.front {
         .content {
             @include breakpoint($bp-medium, $no-query: ".no-mq") {
                 @include grid-span(9, 1);
-                border-right: solid 2px $color-red;
+                //border-right: solid 2px $color-red;
             }
         }
         .sidebar {
