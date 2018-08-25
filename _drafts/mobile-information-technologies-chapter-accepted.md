@@ -1,8 +1,0 @@
----
-title: Mobile Information Technologies Chapter Accepted
-date:
-category:
-search_engine_optimization:
-  page_title:
-  page_description:
----
