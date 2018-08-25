@@ -8,7 +8,7 @@ search_engine_optimization:
   page_description:
 ---
 
-By Don Zimmerman, Ph.D., Principal, Communication Science&nbsp;
+By Don Zimmerman, Ph.D., Principal, Communication Science 
 
 Effectively reaching your audiences—whether you call them publics, customers, or clients—is becoming more and more difficult.
 
@@ -56,5 +56,3 @@ Processing and Management, 44, 386 — 399. DOI: 10.1016/j.ipm.2007.02.003
 Saito, D., Saito, K., & Saito, M. (2010). Legibility evaluation ocularmotor analysis. The relationship between contrasting legibility. Electronics and Communications in Japan, 93, 9, 1058 - 1063.
 
 U.S. Department of Education. 2014. National Assessment of Adult Literacy (NAAL). National Center for Education Statistics Washington, D. C. [http://nces.ed.gov/naal/factsheets.asp](http://nces.ed.gov/naal/factsheets.asp){: target="_blank"}.
-
-&nbsp;
