@@ -1,7 +1,7 @@
 ---
 title: Communication Science moved its Website
 date: 2018-06-01 00:00:00
-categories: news
+category: news
 search_engine_optimization:
   page_title: 
   page_description:

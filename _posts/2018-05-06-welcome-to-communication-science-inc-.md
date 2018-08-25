@@ -1,8 +1,7 @@
 ---
 title: 'Welcome to Communication Science, Inc.'
 date: 2018-05-06 00:00:00
-categories:
-  - blog
+category: blog
 search_engine_optimization:
   page_title: 'Welcome to Communication Science, Inc.'
   page_description:

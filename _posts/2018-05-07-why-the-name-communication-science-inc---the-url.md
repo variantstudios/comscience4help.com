@@ -1,8 +1,7 @@
 ---
 title: 'Why the Name Communication Science, Inc., & the URL?'
 date: 2018-05-07 00:00:00
-categories:
-  - blog
+category: blog
 search_engine_optimization:
   page_title: 'Why the Name Communication Science, Inc., & the URL?'
   page_description:
