@@ -1,6 +1,10 @@
 .blog-wrapper {
     .blog-item {
         padding-bottom: 2em;
+        .teaser-date {
+            font-style: italic;
+            color: #adadad;
+        }
     }
     .right-blog {
         h3 {

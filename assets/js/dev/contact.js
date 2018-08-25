@@ -36,12 +36,12 @@ if ($('body').hasClass('contact-us')) {
 var CaptchaCallback = function() { // eslint-disable-line no-unused-vars
   if ($('#RecaptchaField1').length) {
     grecaptcha.render('RecaptchaField1', {
-      sitekey: '6LfxPSAUAAAAAHG-l97Z0Gu8nxRifPt9yTRPT-IQ'
+      sitekey: '6Ld2XGwUAAAAAOKvehGCNwfZaW0HxzsW2wmjU0nF'
     });
   }
   if ($('#RecaptchaField2').length) {
     grecaptcha.render('RecaptchaField2', {
-      sitekey: '6LfxPSAUAAAAAHG-l97Z0Gu8nxRifPt9yTRPT-IQ'
+      sitekey: '6Ld2XGwUAAAAAOKvehGCNwfZaW0HxzsW2wmjU0nF'
     });
   }
 };
