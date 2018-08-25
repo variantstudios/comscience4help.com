@@ -1,7 +1,7 @@
 ---
 title: A Brief Look at Communication Evaluation
 date: 2018-05-08 00:00:00
-categories:
+category:
   - blog
 search_engine_optimization:
   page_title:
