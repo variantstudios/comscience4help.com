@@ -20,7 +20,7 @@ layout: default
             {{ content }}
         </div>
         <div class="content">
-            {% if page.url == "/contact-us/" %} {% include contact-form.html %} {% elsif page.permalink == "/search/" %} {% include google-search.html %} {% endif %}
+            {% if page.url == "/contact-us/" %} {% include contact-form.html %} {% elsif page.url == "/search/" %} {% include google-search.html %} {% endif %}
         </div>
     </div>
 </main>
