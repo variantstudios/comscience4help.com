@@ -38,6 +38,8 @@ collections:
   posts:
     output: true
     permalink: '/:categories/:title/'
+  categories:
+    output: false
 
 defaults:
   -
