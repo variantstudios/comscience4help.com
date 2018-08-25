@@ -13,11 +13,7 @@ layout: page
                         < Back to News</a>
                             {% else %} {% endif %}
         </p>
-        <div class="left-image">
-            {% if page.image_path %}
-            <img src="{{ page.image_path }}" alt="{{ page.title }}"> {% endif %}
-        </div>
-        <div class="right-blog">
+        <div class="blog-content">
             <h3><a href="{{ post.url }}">{{ page.title }}</a></h3>
             <p>posted {{ page.date | date: "%a, %b %d, %Y" }}</p>
             {{ content }}

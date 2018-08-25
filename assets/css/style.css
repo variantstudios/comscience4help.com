@@ -105,13 +105,13 @@ h6 {
 }
 
 a {
-  color: #4DA4F1;
+  color: #4176c7;
 }
 a:hover {
-  color: #7cbcf5;
+  color: #6892d3;
 }
 a:visited {
-  color: #1e8ced;
+  color: #305ea5;
 }
 
 a.read-more-link {
@@ -318,7 +318,7 @@ table td {
 }
 
 table.sticky-enabled thead th, table.sticky-header thead th {
-  border-bottom: 3px solid #4DA4F1;
+  border-bottom: 3px solid #4176c7;
   padding: 1em 0 1em 2em;
 }
 
@@ -342,7 +342,7 @@ ul.pager {
 ul.pager li {
   display: inline-block;
   list-style: none;
-  color: #4DA4F1;
+  color: #4176c7;
 }
 @media (min-width: 50em) {
   ul.pager li {
@@ -357,7 +357,7 @@ ul.pager li {
           flex: 1;
 }
 ul.pager li a:visited {
-  color: #4DA4F1;
+  color: #4176c7;
 }
 @media (min-width: 50em) {
   ul.pager li.previous {
@@ -1534,6 +1534,53 @@ body.front .subpage {
   margin-bottom: 0;
   padding: 2rem 0;
 }
+body.front .page-list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  margin: 2rem 0;
+  border-top: solid 4px #ea3223;
+  border-bottom: solid 4px #ea3223;
+  padding: 1rem 0;
+}
+body.front .page-list li {
+  width: 48%;
+  display: block;
+}
+body.front .page-list li p {
+  font-size: .9rem;
+}
+body.front .sidebar h4 {
+  margin: 0 0 .5rem 0;
+  font-size: 1.5rem;
+}
+body.front .sidebar .blog-item {
+  padding-bottom: 0;
+}
+body.front .sidebar .blog-item h5 {
+  font-size: 1.1rem;
+  margin-bottom: 0;
+}
+body.front .sidebar .blog-item p {
+  font-size: .9rem;
+  margin: .3rem 0;
+}
+body.front .sidebar .blog-item p.teaser-date {
+  font-style: italic;
+  color: #adadad;
+}
+body.front .sidebar .blog-item p.teaser-link {
+  margin-bottom: 2rem;
+}
 
 .center-container {
   margin: 0 auto;
@@ -1761,6 +1808,10 @@ body.front .subpage {
 }
 .blog-wrapper .blog-item {
   padding-bottom: 2em;
+}
+.blog-wrapper .blog-item .teaser-date {
+  font-style: italic;
+  color: #adadad;
 }
 .blog-wrapper .right-blog h3 {
   margin-top: 0;

@@ -3,43 +3,48 @@ layout: default
 ---
 <div class="subpage-header"></div>
 <main>
-  <div class="subpage with-sidebar clearfix">
-      <aside class="sidebar">
-          <h4>Recent Blog Posts:</h4>
-          <section class="blog-wrapper">
-  
-          {% assign blog = site.posts | where: "category","blog" | sort: 'date'  %}
-          {% for post in blog reversed limit:2 %}
-          {% if post.category == 'blog' %}
-          <div class="blog-item">
-              <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
-              <p>{{post.category}}</p>
-              <p>posted {{ post.date | date: "%a, %b %d, %Y" }}</p>
-              {% if post.content %}
-              <p class="teaser-text">{{ post.content | strip_html | truncatewords:15}}</p>
-              <p class="teaser-link"><a href="{{ post.url }}">read more</a></p>
-              {% endif %}
-          </div>
-          {% endif %}
-          {% endfor %}
-   
-      </section>
-      </aside>
-     <div class="content clearfix">
-      {{ content }}
+    <div class="subpage with-sidebar clearfix">
+        <aside class="sidebar">
+            <h4>Recent Blog Posts:</h4>
+            <section class="blog-wrapper">
 
-    <div class=" clearfix">
-      <ul>
-     {% for page in site.pages %}
-     {% if page.teaser_text %}
-      <li><a href="{{page.url}}">{{page.title}}</a></li>
-     {% endif %}
-     {% endfor %}
-     </ul>
-    </div>
-    </div>
+                {% assign blog = site.posts | where: "category","blog" | sort: 'date' %} {% for post in blog reversed limit:3 %} {% if post.category == 'blog' %}
+                <div class="blog-item">
+                    <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+                    <p class="teaser-date">{{ post.date | date: "%a, %b %d, %Y" }}</p>
+                    {% if post.content %}
+                    <p class="teaser-text">{{ post.content | strip_html | truncatewords:20}}</p>
+                    <p class="teaser-link"><a href="{{ post.url }}">read more</a></p>
+                    {% endif %}
+                </div>
+                {% endif %} {% endfor %}
 
-    
-  </div>
+            </section>
+        </aside>
+        <div class="content clearfix">
+            {{ content }}
+
+            <div class=" clearfix">
+                <ul class="page-list">
+                    {% for page in site.pages %} {% if page.teaser_text %}
+                    <li>
+                        <h5><a href="{{page.url}}">{{page.title}}</a></h5>
+                        <a href="{{page.url}}">
+                        <picture>
+                            <!--[if IE 9]><video style="display: none;"><![endif]-->
+                            <source srcset="{{site.cloudinaryurl}}image/fetch/w_300,c_fill,c_fill,q_65/{{site.url}}{{ page.main_image }}" media="(max-width: 400px)" />
+                            <source srcset="{{site.cloudinaryurl}}image/fetch/w_400,h_212,c_fill,c_fill,q_65/{{site.url}}{{ page.main_image }}" media="(min-width: 800px)" />
+                            <!--[if IE 9]></video><![endif]-->
+                            <img src="{{site.cloudinaryurl}}image/fetch/w_400,h_212,c_fill,c_fill,q_65/{{site.url}}{{ page.main_image }}" alt="{{page.title}}" />
+                        </picture>
+                        </a>
+                        <p>{{page.teaser_text}}</p>
+                    </li>
+                    {% endif %} {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+
+    </div>
 </main>
-
