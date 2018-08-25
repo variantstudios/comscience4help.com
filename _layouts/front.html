@@ -7,7 +7,7 @@ layout: default
       <aside class="sidebar">
           <h4>Recent Blog Posts:</h4>
           <section class="blog-wrapper">
-          {% for post in site.category.blog limit: 2 %}
+          {% for post in site.categories.blog limit: 2 %}
           <div class="blog-item">
               <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
               <p>posted {{ post.date | date: "%a, %b %d, %Y" }}</p>
