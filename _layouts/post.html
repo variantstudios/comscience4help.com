@@ -1,15 +1,15 @@
---- 
-layout: page 
----
+--- layout: page ---
 
 <section class="blog-wrapper wrap">
     <div class="blog-item clearfix">
         <p>
-            {% if page.categories contains 'blog' %}<a href="/blog/">< Back to the Blog</a>
-            {% else if page.categories contains 'news'%}
-            <a href="/news/">< Back to News</a>
-            {% else %}
-            {% endif %}
+            {% if page.category contains 'blog' %}
+            <a href="/blog/">
+                < Back to the Blog</a>
+                    {% else if page.category contains 'news'%}
+                    <a href="/news/">
+                        < Back to News</a>
+                            {% else %} {% endif %}
         </p>
         <div class="left-image">
             {% if page.image_path %}
@@ -22,18 +22,12 @@ layout: page
         </div>
     </div>
     <nav class="pagination" role="navigation">
-    {% if page.next_in_category != nil %}
-	<a href="{{page.next_in_category.url}}" class="next-link" title="{{page.next_in_category.title}}">Older Post</a>
-{% endif %}
-{% if page.previous_in_category != nil %}
-	<a href="{{page.previous_in_category.url}}" class="previous-link" title="{{page.previous_in_category.title}}">Newer Post</a>
-{% endif %}
-        {% comment %} {% assign cat = page.categories %}
-        {{cat}}
-        {% if page.next and page.next.categories contains cat %}
-        <a href="{{ page.next.url }}">Next Post - {{page.next.categories}}</a> 
-        {% else if page.previous and page.previous.categories contains cat %}
-        <a href="{{ page.previous.url }}">Previous Post {{page.previous.categories}}</a> {% endif %} {% endcomment %}
+        {% if page.next_in_category != nil %}
+        <a href="{{page.next_in_category.url}}" class="next-link" title="{{page.next_in_category.title}}">Older Post</a> {% endif %} {% if page.previous_in_category != nil %}
+        <a href="{{page.previous_in_category.url}}" class="previous-link" title="{{page.previous_in_category.title}}">Newer Post</a> {% endif %} {% comment %} {% assign cat = page.category %} {{cat}} {% if page.next and page.next.category contains cat
+        %}
+        <a href="{{ page.next.url }}">Next Post - {{page.next.category}}</a> {% else if page.previous and page.previous.category contains cat %}
+        <a href="{{ page.previous.url }}">Previous Post {{page.previous.category}}</a> {% endif %} {% endcomment %}
         <!-- <ul class="pager">
 
             {% if page.previous.url %}
