@@ -4,6 +4,7 @@ search_engine_optimization:
   page_title: Blog
   page_description:
 page_category: blog
+_hide_page_category: true
 permalink: /blog/
 _hide_permalink: true
 layout: posts
