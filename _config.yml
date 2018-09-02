@@ -57,8 +57,6 @@ defaults:
     values:
       layout: page
       class: page
-      _hide_class: true
-      _hide_permalink: true
 
 # Hard-Coded Values
 categories:
