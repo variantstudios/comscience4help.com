@@ -1,7 +1,6 @@
 ---
 title: Blog
-header_image: >-
-  /assets/images/main-images/adults-agreement-businessman-1056553_Our_clients.jpg
+header_image:
 search_engine_optimization:
   page_title: Blog
   page_description:
