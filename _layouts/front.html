@@ -40,7 +40,7 @@ layout: default
                             <img src="{{site.cloudinaryurl}}image/fetch/w_430,h_212,c_fill,c_fill,q_65/{{site.url}}{{ page.main_image }}" alt="{{page.title}}" />
                         </picture>
                         </a>
-                        <p>{{page.featured.teaser_text}}</p>
+                        <p>{{page.featured.teaser_text | strip_htm }}</p>
                     </li>
                     {% endif %} {% endfor %}
                 </ul>
