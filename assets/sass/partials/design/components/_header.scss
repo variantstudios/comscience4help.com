@@ -84,15 +84,15 @@ header.siteheader {
         }
         .search {
             order: 2;
-            width: 40px;
+            width: 35px;
             line-height: 1;
-            flex: 0 0 40px;
+            flex: 0 0 35px;
             margin: .5rem .5rem 0 0;
             font-size: .8rem;
             @include breakpoint($bp-medium, $no-query: ".no-mq") {
                 order: 3;
-                width: 48px;
-                flex: 0 0 48px;
+                width: 40px;
+                flex: 0 0 40px;
                 margin: 0 0 0 1rem;
             }
             .search-link {
