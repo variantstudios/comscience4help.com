@@ -1712,11 +1712,11 @@ body.front .page-list {
   border-bottom: solid 4px #ea3223;
   padding: 1rem 0;
 }
-body.front .page-list li {
+body.front .page-list .page-list-item {
   width: 100%;
   display: block;
 }
-body.front .page-list li p {
+body.front .page-list .page-list-item p {
   font-size: .9rem;
 }
 @media (min-width: 62.5em) {
@@ -1732,7 +1732,7 @@ body.front .page-list li p {
         -ms-flex-flow: row wrap;
             flex-flow: row wrap;
   }
-  body.front .page-list li {
+  body.front .page-list .page-list-item {
     width: 48%;
     display: block;
   }
@@ -1749,7 +1749,7 @@ body.front .page-list li p {
       -ms-flex-flow: row wrap;
           flex-flow: row wrap;
 }
-.no-mq body.front .page-list li {
+.no-mq body.front .page-list .page-list-item {
   width: 48%;
   display: block;
 }

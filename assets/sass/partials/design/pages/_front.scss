@@ -15,7 +15,7 @@ body.front {
         border-top: solid 4px #ea3223;
         border-bottom: solid 4px #ea3223;
         padding: 1rem 0;
-        li {
+        .page-list-item {
             width: 100%;
             display: block;
             p {
@@ -26,7 +26,7 @@ body.front {
             display: flex;
             justify-content: space-between;
             flex-flow: row wrap;
-            li {
+            .page-list-item {
                 width: 48%;
                 display: block;
             }

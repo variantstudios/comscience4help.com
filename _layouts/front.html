@@ -29,7 +29,7 @@ layout: default
                     {% assign custom_pages = site.custom_pages | sort:'featured.sort_order_number' %}    
                     {% for page in custom_pages %}                  
                     {% if page.featured.teaser_text %}
-                    <div>
+                    <div class="page-list-item">
                         <h5><a href="{{page.url}}">{{page.title}}</a></h5>
                         <a href="{{page.url}}">
                         <picture>
