@@ -10,7 +10,7 @@ search_engine_optimization:
     Our consultants bring decades of quantitative and qualitative research and
     evaluation expertise to help you evaluate your communications. Depending on
     your needs, we may use one or more of the methods listed below.
-layout: page
+layout: page-sidebar
 ---
 
 # Tools & Methods
