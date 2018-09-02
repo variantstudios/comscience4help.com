@@ -1,5 +1,8 @@
 ---
 title: About Us
+featured:
+  teaser_text: 
+  sort_order_number: 0
 main_image: >-
   /assets/images/main-images/brainstorming-colleagues-communication-1204649_Workshops_Seminars.jpg
 search_engine_optimization:

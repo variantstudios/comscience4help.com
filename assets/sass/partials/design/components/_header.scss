@@ -2,8 +2,8 @@ header.siteheader {
     max-width: 1200px;
     background: #fff;
     padding: 0;
-    @include breakpoint($bp-medium, $no-query: ".no-mq") {
-        padding: 1rem 2rem 0 2rem;
+    @include breakpoint($bp-large, $no-query: ".no-mq") {
+        // padding: 1rem 2rem 0 2rem;
         background: none;
     }
     .logo {
@@ -20,7 +20,7 @@ header.siteheader {
             @include grid-span(11, 3, $gutter: 0);
         }
         .name {
-            color: $color-blue;
+            color: darken($link, 20%);
             font-size: 3rem;
             font-weight: 700;
             display: block;
@@ -34,16 +34,25 @@ header.siteheader {
     }
     .search {
         position: relative;
-        @include breakpoint($bp-medium, $no-query: ".no-mq") {
-            @include grid-span(1, 12, $gutter: 0);
-        }
+        // @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        //     @include grid-span(1, 12, $gutter: 0);
+            
+        // }
+        float: right;
         text-align: right;
         font-size: .8rem;
-        svg.search-icon {
-            height: 35px;
-            position: absolute;
-            top: 23px;
-            right: 0;
+        
+        .search-link {
+            width: 35px;
+            display: block;
+            line-height: 0.5;
+            margin: 1.5rem 0 0 0;   
+            font-size: .7rem;
+            color: #000;
+            text-decoration: none;
+            svg {
+                width: 100%;
+            }
         }
     }
     .main-nav {

@@ -4,13 +4,13 @@ body.not-front {
     }
     .with-sidebar {
         .content {
-            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            @include breakpoint($bp-large, $no-query: ".no-mq") {
                 @include grid-span(9, 1);
                 //border-right: solid 2px $color-red;
             }
         }
         .sidebar {
-            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            @include breakpoint($bp-large, $no-query: ".no-mq") {
                 @include grid-span(3, 10);
             }
         }
@@ -23,13 +23,13 @@ body.front {
     }
     .with-sidebar {
         .content {
-            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            @include breakpoint($bp-large, $no-query: ".no-mq") {
                 @include grid-span(9, 1);
                 //border-right: solid 2px $color-red;
             }
         }
         .sidebar {
-            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            @include breakpoint($bp-large, $no-query: ".no-mq") {
                 @include grid-span(3, 10);
             }
         }

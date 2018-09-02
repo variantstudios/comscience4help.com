@@ -22,7 +22,8 @@ $nav-border: #CFCFCF;
 $body-copy-color: #333;
 $heading-color: #333;
 $link: #4176c7;
-$visited: darken($link, 10%);
+$visited: $link;
+//darken($link, 10%);
 $hover: lighten($link, 10%);
 // Misc
 $white: #F1F1F1;
@@ -38,7 +39,7 @@ $inherit: inherit;
 $sidebar_first_columns: 3;
 $sidebar_second_columns: 3;
 //Layout Variables
-$container_width: 1600px;
+$container_width: 1200px;
 $bp-xsmall: 400px;
 $bp-small: 600px;
 $bp-small-down: 0 $bp-small;

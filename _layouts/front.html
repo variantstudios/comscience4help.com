@@ -26,19 +26,21 @@ layout: default
 
             <div class=" clearfix">
                 <ul class="page-list">
-                    {% for page in site.custom_pages %} {% if page.teaser_text %}
+                    {% assign custom_pages = site.custom_pages | sort:'featured.sort_order_number' %}    
+                    {% for page in custom_pages %}                  
+                    {% if page.featured.teaser_text %}
                     <li>
                         <h5><a href="{{page.url}}">{{page.title}}</a></h5>
                         <a href="{{page.url}}">
                         <picture>
                             <!--[if IE 9]><video style="display: none;"><![endif]-->
-                            <source srcset="{{site.cloudinaryurl}}image/fetch/w_300,c_fill,c_fill,q_65/{{site.url}}{{ page.main_image }}" media="(max-width: 400px)" />
-                            <source srcset="{{site.cloudinaryurl}}image/fetch/w_400,h_212,c_fill,c_fill,q_65/{{site.url}}{{ page.main_image }}" media="(min-width: 800px)" />
+                            <source srcset="{{site.cloudinaryurl}}image/fetch/w_320,c_fill,c_fill,q_65/{{site.url}}{{ page.main_image }}" media="(max-width: 400px)" />
+                            <source srcset="{{site.cloudinaryurl}}image/fetch/w_430,h_212,c_fill,c_fill,q_65/{{site.url}}{{ page.main_image }}" media="(min-width: 800px)" />
                             <!--[if IE 9]></video><![endif]-->
-                            <img src="{{site.cloudinaryurl}}image/fetch/w_400,h_212,c_fill,c_fill,q_65/{{site.url}}{{ page.main_image }}" alt="{{page.title}}" />
+                            <img src="{{site.cloudinaryurl}}image/fetch/w_430,h_212,c_fill,c_fill,q_65/{{site.url}}{{ page.main_image }}" alt="{{page.title}}" />
                         </picture>
                         </a>
-                        <p>{{page.teaser_text}}</p>
+                        <p>{{page.featured.teaser_text}}</p>
                     </li>
                     {% endif %} {% endfor %}
                 </ul>

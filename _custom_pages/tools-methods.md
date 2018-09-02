@@ -1,5 +1,8 @@
 ---
 title: Tools &amp; Methods
+featured:
+  teaser_text: 
+  sort_order_number: 0
 main_image: /assets/images/main-images/computer-data-device-159226_News-Archieves.jpg
 search_engine_optimization:
   page_title:

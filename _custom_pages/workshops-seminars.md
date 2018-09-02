@@ -1,10 +1,9 @@
 ---
 title: Workshops & Seminars
-teaser_text: >-
-  Our workshops and seminars will help your employees improve their
-  communication skills.
-main_image: >-
-  /assets/images/main-images/brainstorming-colleagues-communication-1204649_Workshops_Seminars.jpg
+featured:
+  teaser_text: Our workshops and seminars will help your employees improve their communication skills.
+  sort_order_number: 3 
+main_image: /assets/images/main-images/brainstorming-colleagues-communication-1204649_Workshops_Seminars.jpg
 search_engine_optimization:
   page_title: Usability Testing
   page_description:
