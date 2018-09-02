@@ -1,4 +1,10 @@
 body.not-front {
+    .subpage {
+        padding: 1rem 2rem 0 2rem;
+        @include breakpoint($bp-xlarge, $no-query: '.no-mq') {
+            padding: 2rem 0;
+        }
+    }
     .subpage-header {
 
     }

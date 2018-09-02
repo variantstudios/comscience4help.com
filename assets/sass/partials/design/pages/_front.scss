@@ -3,28 +3,32 @@ body.front {
         margin-bottom: 0;
         // padding: 2rem 0;
         padding: 1rem 2rem 0 2rem;
-        @include breakpoint($bp-large, $no-query: '.no-mq') {
-            //padding: 2rem 0;
-        }
         @include breakpoint($bp-xlarge, $no-query: '.no-mq') {
             padding: 2rem 0;
         }
     }
     #site-header {}
     .page-list {
-        display: flex;
-        justify-content: space-between;
-        flex-flow: row wrap;
+       
         align-content: center;
         margin: 2rem 0;
         border-top: solid 4px #ea3223;
         border-bottom: solid 4px #ea3223;
         padding: 1rem 0;
         li {
-            width: 48%;
+            width: 100%;
             display: block;
             p {
                 font-size: .9rem;
+            }
+        }
+        @include breakpoint($bp-large, $no-query: '.no-mq') {
+            display: flex;
+            justify-content: space-between;
+            flex-flow: row wrap;
+            li {
+                width: 48%;
+                display: block;
             }
         }
     }

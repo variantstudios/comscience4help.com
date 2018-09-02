@@ -6,55 +6,169 @@ header.siteheader {
         // padding: 1rem 2rem 0 2rem;
         background: none;
     }
-    .logo {
-        img {
-            width: 90px;
-            margin-top: 22px;
-        }
+    .header-inner--wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: stretch;
+        max-width: 1200px;
+        padding: 1rem .5rem 0 .5rem;
         @include breakpoint($bp-medium, $no-query: ".no-mq") {
-            @include grid-span(2, 1, $gutter: 0);
+            padding: 1rem 2rem 0 1rem;
         }
-    }
-    .site-name {
-        @include breakpoint($bp-medium, $no-query: ".no-mq") {
-            @include grid-span(11, 3, $gutter: 0);
+        @include breakpoint($bp-large, $no-query: ".no-mq") {
+            padding: 1rem 1rem 0 1rem;
         }
-        .name {
-            color: darken($link, 20%);
-            font-size: 3rem;
-            font-weight: 700;
-            display: block;
+        .logo {
+            order: 1;
+            img { width: 75px; }
+            //width: 100%;
+            flex: 1;
+            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+                width: 75px;
+                flex: 0 0 75px;
+            }
+            @include breakpoint($bp-large, $no-query: ".no-mq") {
+                width: 90px;
+                flex: 0 0 90px;
+            }
         }
-        .slogan {
-            color: $color-red;
-            font-size: 1.3rem;
-            font-weight: 700;
-            display: block;
-        }
-    }
-    .search {
-        position: relative;
-        // @include breakpoint($bp-medium, $no-query: ".no-mq") {
-        //     @include grid-span(1, 12, $gutter: 0);
+        .site-name {
             
-        // }
-        float: right;
-        text-align: right;
-        font-size: .8rem;
-        
-        .search-link {
-            width: 35px;
-            display: block;
-            line-height: 0.5;
-            margin: 1.5rem 0 0 0;   
-            font-size: .7rem;
-            color: #000;
-            text-decoration: none;
+            order: 3;
+            width: 100%;
+            margin: 0;
+            text-align: center;
+            .name {
+                color: darken($link, 20%);
+                font-size: 1.1rem;
+                font-weight: 700;
+                display: block;
+            }
+            .slogan {
+                color: $color-red;
+                font-size: .9rem;
+                font-weight: 700;
+                display: block;
+            }
+            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+                flex: 1;
+                order: 2;
+                text-align: left;
+                margin: 0 0 0 1rem;
+                .name {
+                    font-size: 2.1rem;
+                }
+                .slogan {
+                    font-size: 1rem;
+                }
+            }
+            @include breakpoint($bp-large, $no-query: ".no-mq") {
+                margin: 0 0 0 1.5rem;
+                .name {
+                    font-size: 3rem;
+                }
+                .slogan {
+                    font-size: 1.2rem;
+                }
+            }
+            @include breakpoint($bp-xlarge, $no-query: ".no-mq") {
+                margin: 0 0 0 2rem;
+                .name {
+                    font-size: 3.3rem;
+                }
+                .slogan {
+                    font-size: 1.6rem;
+                }
+            }
+        }
+        .search {
+            order: 2;
+            width: 40px;
+            line-height: 1;
+            flex: 0 0 40px;
+            margin: .5rem .5rem 0 0;
+            font-size: .8rem;
+            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+                order: 3;
+                width: 48px;
+                flex: 0 0 48px;
+                margin: 0 0 0 1rem;
+            }
+            .search-link {
+                line-height: 0;
+                font-size: .7rem;
+                color: #000;
+                text-decoration: none;
+            }
             svg {
-                width: 100%;
+                width: 80%;
             }
         }
     }
+    // .logo {
+    //     img {
+    //         width: 90px;
+    //         margin: 12px 0 0 12px;
+    //         @include breakpoint($bp-medium, $no-query: ".no-mq") {
+    //             margin: 12px 0 0 0;
+    //         }
+    //     }
+    //     @include breakpoint($bp-medium, $no-query: ".no-mq") {
+    //         @include grid-span(2, 1, $gutter: 0);
+    //     }
+    // }
+    // .site-name {
+    //     text-align: center;
+    //     .name {
+    //         color: darken($link, 20%);
+    //         font-size: 1.2rem;
+    //         font-weight: 700;
+    //         display: block;
+    //     }
+    //     .slogan {
+    //         color: $color-red;
+    //         font-size: .9rem;
+    //         font-weight: 700;
+    //         display: block;
+    //     }
+    //     @include breakpoint($bp-medium, $no-query: ".no-mq") {
+    //         text-align: left;
+    //         //@include grid-span(11, 3, $gutter: 0);
+    //         .name {
+    //             font-size: 3rem;
+    //         }
+    //         .slogan {
+    //             font-size: 1.3rem;
+    //         }
+    //     }
+    // }
+    // .search {
+        
+    //     text-align: right;
+    //     font-size: .8rem;
+    //     @include breakpoint($bp-large, $no-query: ".no-mq") {
+    //         position: relative;
+    //         float: right;
+    //     }
+    //     .search-link {
+    //         text-align: center;
+    //         width: 30px;
+    //         display: block;
+    //         line-height: 0.5;
+    //         font-size: .7rem;
+    //         color: #000;
+    //         text-decoration: none;
+    //         margin: 0 auto;
+    //         @include breakpoint($bp-large, $no-query: ".no-mq") {
+    //             width: 35px;
+    //             margin: 1.5rem 0 0 0;  
+    //         }
+    //         svg {
+    //             width: 100%;
+    //         }
+    //     }
+    // }
     .main-nav {
         width: 100%;
         float: none;
