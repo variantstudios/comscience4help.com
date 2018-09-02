@@ -25,11 +25,11 @@ layout: default
             <div class="editable">
                 <p>Working collaboratively with you, Communication Science staff selects cost-efficient and timely methods to evaluate your communications and make recommendations to improve communications with your audiences—i.e., your publics, clients, or customers. Communication Science workshops and seminars will help your employees improve their professional, technical, and scientific writing, editing, and production skills.</p></div>
             <div>
-                <ul class="page-list">
+                <div class="page-list">
                     {% assign custom_pages = site.custom_pages | sort:'featured.sort_order_number' %}    
                     {% for page in custom_pages %}                  
                     {% if page.featured.teaser_text %}
-                    <li>
+                    <div>
                         <h5><a href="{{page.url}}">{{page.title}}</a></h5>
                         <a href="{{page.url}}">
                         <picture>
@@ -41,9 +41,9 @@ layout: default
                         </picture>
                         </a>
                         <p>{{page.featured.teaser_text | strip_htm }}</p>
-                    </li>
+                    </div>
                     {% endif %} {% endfor %}
-                </ul>
+                </div>
             </div>
         </div>
     </div>
