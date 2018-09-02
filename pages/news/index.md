@@ -6,7 +6,7 @@ search_engine_optimization:
 page_category: news
 permalink: /news/
 layout: posts
-_hide_content: true
+_hide_layout: true
 class: posts
-_hide_content: true
+_hide_class: true
 ---
