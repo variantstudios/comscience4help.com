@@ -1,12 +1,16 @@
 ---
 title: Our Clients
 featured:
-  teaser_text: 
+  teaser_text:
   sort_order_number: 0
-main_image: /assets/images/main-images/adults-agreement-businessman-1056553_Our_clients.jpg
+main_image: >-
+  /assets/images/main-images/adults-agreement-businessman-1056553_Our_clients.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Our Clients
+  page_description: >-
+    Our consultants have served as researchers (principal investigators,
+    principal investigators, investigators) for diverse businesses, agencies and
+    organizations listed below.
 layout: page
 ---
 
