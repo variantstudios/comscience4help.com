@@ -1,9 +1,8 @@
 ---
 title: Communication Audits
-teaser_text: >-
-  Working closely with you, we will evaluate your organization’s internal and
-  external communications, identify your organization’s communications strengths
-  and weaknesses, and suggest strategies for improving your communications.
+featured:
+  teaser_text: "Working closely with you, we will evaluate your organization’s internal and external communications, identify your organization’s communications strengths and weaknesses, and suggest strategies for improving your communications."
+  sort_order_number: 4
 main_image: >-
   /assets/images/main-images/cardboard-communication-connecting-1246743_Comm_Audits.jpg
 search_engine_optimization:

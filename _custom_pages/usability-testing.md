@@ -1,10 +1,8 @@
 ---
 title: Usability Testing
-teaser_text: >-
-  By conducting usability testing of your websites, online media, and print
-  publications, we will help you learn how your audiences use your
-  communications, the problems they encounter, and how they try to solve
-  problems they encounter. We then recommend how to improve your communications.
+featured:
+  teaser_text: By conducting usability testing of your websites, online media, and print publications, we will help you learn how your audiences use your communications, the problems they encounter, and how they try to solve problems they encounter. We then recommend how to improve your communications.
+  sort_order_number: 2
 main_image: /assets/images/main-images/charts-computer-data-669615_research_tools.jpg
 search_engine_optimization:
   page_title: Usability Testing

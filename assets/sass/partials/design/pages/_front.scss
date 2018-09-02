@@ -1,7 +1,14 @@
 body.front {
     .subpage {
         margin-bottom: 0;
-        padding: 2rem 0;
+        // padding: 2rem 0;
+        padding: 1rem 2rem 0 2rem;
+        @include breakpoint($bp-large, $no-query: '.no-mq') {
+            //padding: 2rem 0;
+        }
+        @include breakpoint($bp-xlarge, $no-query: '.no-mq') {
+            padding: 2rem 0;
+        }
     }
     #site-header {}
     .page-list {

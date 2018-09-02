@@ -1,5 +1,8 @@
 ---
 title: Contact Us
+featured:
+  teaser_text: 
+  sort_order_number: 0
 main_image: /assets/images/main-images/android-apps-blur-163065_contact_us.jpg
 webform:
   subject: 'Communication Science, Inc.: Contact Form'
