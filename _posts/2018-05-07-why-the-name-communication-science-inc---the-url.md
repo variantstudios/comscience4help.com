@@ -2,6 +2,7 @@
 title: 'Why the Name Communication Science, Inc., & the URL?'
 date: 2018-05-07 00:00:00
 category: blog
+excerpt: 'For our name, we borrowed Communication Science from a little-known academic discipline that emerged in the 1950s. In the 1987 Handbook of Communication Science...'
 search_engine_optimization:
   page_title: 'Why the Name Communication Science, Inc., & the URL?'
   page_description:

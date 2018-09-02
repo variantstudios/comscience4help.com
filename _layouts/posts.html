@@ -14,7 +14,7 @@ layout: page
 
             <p class="teaser-date">{{ post.date | date: "%a, %b %d, %Y" }}</p>
             {% if post.content %}
-            <p class="teaser-text">{{ post.content | strip_html | truncatewords:40}}</p>
+            <p class="teaser-text">{{ post.excerpt | strip_html }}</p>
             <p class="teaser-link"><a href="{{ post.url }}">read more</a></p>
             {% endif %}
         </div>

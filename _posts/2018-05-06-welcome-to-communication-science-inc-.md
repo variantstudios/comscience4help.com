@@ -2,6 +2,7 @@
 title: 'Welcome to Communication Science, Inc.'
 date: 2018-05-06 00:00:00
 category: blog
+excerpt: 'Effectively reaching your audiences—whether you call them publics, customers, or clients—is becoming more and more difficult...'
 search_engine_optimization:
   page_title: 'Welcome to Communication Science, Inc.'
   page_description:
