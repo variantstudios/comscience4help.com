@@ -1,6 +1,5 @@
 ---
 title: Blog
-header_image:
 search_engine_optimization:
   page_title: Blog
   page_description:
