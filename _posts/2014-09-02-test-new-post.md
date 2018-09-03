@@ -1,6 +1,6 @@
 ---
 title: Test New post
-date: 2018-09-02 13:00:00
+date: 2014-09-02 13:00:00
 category: news
 excerpt: Add content here. A little more content...and let's go live.
 search_engine_optimization:
@@ -8,4 +8,4 @@ search_engine_optimization:
   page_description: Add content here.
 ---
 
-Add content here. A little more content...and let's go live.
+Add content here. A little more content…and let's go live.
