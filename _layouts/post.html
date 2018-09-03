@@ -16,7 +16,7 @@ layout: page
         <div class="blog-content">
             <h3><a href="{{ post.url }}">{{ page.title }}</a></h3>
             <p>posted {{ page.date | date: "%a, %b %d, %Y" }}</p>
-            {{ content }}
+            <div>{{ content }}</div>
         </div>
     </div>
     <nav class="pagination" role="navigation">
