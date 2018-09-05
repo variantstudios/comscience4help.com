@@ -24,16 +24,12 @@ Our services include:
 * Formative evaluations
 * Summative evaluations
 
-&nbsp;
-
 We use diverse research methodologies including:
 
 * Mail, web, & mixed mode surveys
 * Focus groups, nominal group technique, & Delphi techniques
 * In-depth individual interviews
 * Usability testing
-
-&nbsp;
 
 Photo Credit: Used by permission: rawPixel.com
 
