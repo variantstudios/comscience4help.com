@@ -10,7 +10,7 @@ search_engine_optimization:
 
 By Don Zimmerman, Ph.D., Principal, Communication Science, Inc.
 
-For our name, we borrowed Communication Science from a little-known academic discipline that emerged in the 1950s. In the 1987 *Handbook of Communication Science*, editors Charles Berger and Steven Chaffee provided a detailed definition of communication science.
+For our name, we borrowed Communication Science from a little-known academic discipline that emerged in the 1950's. In the 1987 *Handbook of Communication Science*, editors Charles Berger and Steven Chaffee provided a detailed definition of communication science.
 
 Paraphrased, communication science is a process of developing testable theories that seek to understand the production, processing, and effects of communication and that can be generalized to different communication settings.
 
