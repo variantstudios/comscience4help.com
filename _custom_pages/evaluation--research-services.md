@@ -33,4 +33,6 @@ We use diverse research methodologies including:
 
 &nbsp;
 
+Photo Credit: Used by permission: rawPixel.com
+
 &nbsp;
