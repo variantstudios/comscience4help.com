@@ -23,3 +23,7 @@ Card Sorting: Using a multi-stage, group-interviewing process, we ask a sample o
 Research-based Expert/Heuristic Review: Combining research-based guidelines and our 25 years of usability testing experience, we critique your websites, online media, and print communications. We then suggest strategies to improve the effectiveness of your communications.
 
 Protocol Analysis: Working with you, we identify your website (or other media) users and create a series of tasks your users might try when visiting your website. We then recruit a sample of your website’s users and ask them to talk aloud as they use your website. While they work, we observe and videotape them. Afterward, we interview them and ask them to complete a questionnaire about using your website.
+
+&nbsp;
+
+Photo Credit: Used by permission: Lukas.com
