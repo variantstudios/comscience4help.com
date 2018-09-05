@@ -16,7 +16,9 @@ Using a problem-solving, collaborative process, we obtain the information you ne
 
 ---
 
-### Our services include
+&nbsp;
+
+### Our services include:
 
 * Audience identification & analyses
 * Evaluation of communication products & campaigns
@@ -24,7 +26,7 @@ Using a problem-solving, collaborative process, we obtain the information you ne
 * Formative evaluations
 * Summative evaluations
 
-### We use diverse research methodologies including
+### We use diverse research methodologies including:
 
 * Mail, web, & mixed mode surveys
 * Focus groups, nominal group technique, & Delphi techniques
