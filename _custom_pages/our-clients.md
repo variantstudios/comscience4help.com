@@ -20,6 +20,8 @@ Our consultants have served as researchers (principal investigators, principal i
 
 ---
 
+&nbsp;
+
 ### Research & Evaluation
 
 * AMC Cancer Research&nbsp;
@@ -77,3 +79,5 @@ Our consultants have served as researchers (principal investigators, principal i
 * Western Regional Conference, Pesticide Educators&nbsp;
 * Western Social Science Conference
 * Western ACE Regional Conference
+
+Photo Credit: Used by permission: rawPixel.com
