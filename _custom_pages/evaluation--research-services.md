@@ -24,7 +24,7 @@ Our services include:
 * Formative evaluations
 * Summative evaluations
 
-### We use diverse research methodologies including:
+We use diverse research methodologies including:
 
 * Mail, web, & mixed mode surveys
 * Focus groups, nominal group technique, & Delphi techniques
