@@ -45,8 +45,6 @@ In contrast to formative evaluations, summative evaluations assess the effective
 * Did they understand the message?
 * Did it change their information levels? Behaviors? Attitudes?
 
-&nbsp;
-
 Consider a summative evaluation example. A local condominium developer had slow sales. He asked us to evaluate his information communication campaign. He was spending $20,000 annually advertising his condos on one local radio station.
 
 We surveyed 60 customers who had bought his condos, and 60 people who had bought competing condos. We asked them which radio stations if any, they listened to. Only five of the 120 respondents reported listening to any one radio station—including the station the developer was spending $20,000 annually. Surprisingly, more than 50% of our respondents reported seeing the developer’s highway billboard as they entered town.
