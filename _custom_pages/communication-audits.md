@@ -17,7 +17,9 @@ Working with you, we use a problem-solving process to evaluate your organization
 
 ---
 
-### Our audits include.
+&nbsp;
+
+### Our audits include:
 
 * Assessing communication policies and procedures
 * Identifying internal and external audiences
@@ -26,9 +28,7 @@ Working with you, we use a problem-solving process to evaluate your organization
 * Documenting your communication processes
 * Ascertaining your communications strengths
 * Uncovering your organization’s communication weaknesses
-
-### Recommend strategies for improving
-
-* Communications policies and procedures
-* Print and electronic communication production
-* Print and electronic communications
+* Recommend strategies for improving
+  * Communications policies and procedures
+  * Print and electronic communication production
+  * Print and electronic communications
