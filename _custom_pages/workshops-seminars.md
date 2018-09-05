@@ -38,3 +38,5 @@ Our seminars include:
 * Saying more with less—tight writing (full day)
 * Targeting/tailoring communications to audiences (half day)
 * Writing for the web (full day)
+
+&nbsp;
