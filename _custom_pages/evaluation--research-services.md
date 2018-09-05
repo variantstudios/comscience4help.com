@@ -16,6 +16,8 @@ Using a problem-solving, collaborative process, we obtain the information you ne
 
 ---
 
+&nbsp;
+
 Our services include:
 
 * Audience identification & analyses
@@ -30,8 +32,6 @@ We use diverse research methodologies including:
 * Focus groups, nominal group technique, & Delphi techniques
 * In-depth individual interviews
 * Usability testing
-
-&nbsp;
 
 Photo Credit: Used by permission: rawPixel.com
 
