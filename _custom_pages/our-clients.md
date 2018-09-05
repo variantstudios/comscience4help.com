@@ -20,8 +20,6 @@ Our consultants have served as researchers (principal investigators, principal i
 
 ---
 
-&nbsp;
-
 ### Research & Evaluation
 
 * AMC Cancer Research&nbsp;
@@ -30,6 +28,7 @@ Our consultants have served as researchers (principal investigators, principal i
 * Colorado Injury Control Research Center
 * Colorado Pollution Prevention Partnership
 * Colorado State University&nbsp;
+* Colorado State University Libraries
 * Environmental Protection Agency&nbsp;
 * Fort Collins—Transfort Services&nbsp;
 * Hewlett-Packard&nbsp;
@@ -53,7 +52,7 @@ Our consultants have served as researchers (principal investigators, principal i
 * Association of Technical Writing Teachers Conference
 * Association for Education in Journalism and Mass Communication Conference&nbsp;
 * Colorado Chapter of the Wildlife Society
-* Colorado State University Annual Agricultural Research Conference
+* Colorado State University, Annual Agricultural Research Conference
 * Colorado State University, Master of Science in Applied Statistics
 * Colorado State University, College of Liberal Arts grant writing workshop
 * Colorado State University Extension Service Conference
