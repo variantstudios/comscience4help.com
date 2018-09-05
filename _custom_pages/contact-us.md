@@ -17,4 +17,4 @@ class: contact
 
 # Contact Us
 
-Don Zimmerman, PhD<br>Phone  970-420-6788<br>[E-mail](mailto:don@comscience4help.com)
+Don Zimmerman, PhD<br>Phone &nbsp;970-420-6788<br>To e-mail us, fill out the form below and click the **Get In Touch** button.
