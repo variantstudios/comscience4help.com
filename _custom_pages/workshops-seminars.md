@@ -4,7 +4,7 @@ featured:
   teaser_text: >-
     Our workshops and seminars will help your employees improve their
     communication skills.  We offer tailored workshops to meet your needs and
-    seminars reviewing key communication concepts`.
+    seminars reviewing key communication concepts.
   sort_order_number: 3
 main_image: >-
   /assets/images/main-images/brainstorming-colleagues-communication-1204649_Workshops_Seminars.jpg
