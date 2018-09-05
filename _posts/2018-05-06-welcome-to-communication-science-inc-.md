@@ -20,15 +20,11 @@ Consider these research findings:
 * About 16% of adults comprehend below the basic level of reading—i.e., they lack the ability to read and understand news stories.
 * About 29% of adults lack basic reading skills—but cannot accurately report key findings from a news article.
 
-&nbsp;
-
 Recommendations: (1) Identify target audiences & their reading skills; (2) Draft copy using clear writing principles; (3) Run readability scoring to assess the grade level of draft copy; (4) Revise copy so the target can understand it; (5) Test copy with members of target audience.
 
 * College students judged websites with higher aesthetic features as having more credibility (Robins & Holmes, 2008).
 * As the contrast between text and background decreased, reading speed slowed (Saito, Saito, & Saito 2010).
 * Users decide within 50 milliseconds whether they will use a website (Lindgaard, et al. 2006).
-
-&nbsp;
 
 Recommendations: (1) Include some visuals to enhance aesthetics, (2) Ensure the contrast between text and background doesn’t slow reading, (3) Ensure users can find key information quickly, (4) Evaluate prototype design of websites with members of the target audience.
 
@@ -38,8 +34,6 @@ To help you, Communication Science, Inc. consultants:
 
 * Provide research evaluation services to help you understand more about your audiences, what media they use, and how to tailor communications to your respective audience(s).
 * Offer tailored workshops and seminars to fit your writing, editing, and communication production needs.
-
-&nbsp;
 
 We bring decades of professional experience, research and evaluation experience, and teaching experience to each assignment.
 
