@@ -16,9 +16,7 @@ Using a problem-solving, collaborative process, we obtain the information you ne
 
 ---
 
-&nbsp;
-
-### Our services include:
+Our services include:
 
 * Audience identification & analyses
 * Evaluation of communication products & campaigns
@@ -32,3 +30,7 @@ Using a problem-solving, collaborative process, we obtain the information you ne
 * Focus groups, nominal group technique, & Delphi techniques
 * In-depth individual interviews
 * Usability testing
+
+&nbsp;
+
+&nbsp;
