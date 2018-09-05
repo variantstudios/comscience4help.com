@@ -34,3 +34,5 @@ Our consultants bring decades of quantitative and qualitative research and evalu
 * Summative evaluations
 * Usability testing methods
 * Web & online surveys
+
+Photo Credit: Used by permission Pixaby.com
