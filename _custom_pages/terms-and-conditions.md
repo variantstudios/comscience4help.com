@@ -38,7 +38,7 @@ You are specifically restricted from all of the following:
 * using this Website contrary to applicable laws and regulations, or in any way may cause harm to the Website, or to any person or business entity;
 * engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website;
 * using this Website to engage in any advertising or marketing;
-* Using any content, blog, or news items without explicit written permission of Communication Science.
+* Using any content, blog, or news items without explicit written permission of Communication Science.**​​​​​​​​​​​​​​**
 
 Certain areas of this Website are restricted from being access by you and Communication Science, Inc. may further restrict access by you to any areas of this Website, at any time, in absolute discretion. Any user ID and password you may have for this Website are confidential and you must maintain confidentiality as well.
 
