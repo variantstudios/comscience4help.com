@@ -38,19 +38,23 @@ You are specifically restricted from all of the following:
 * using this Website contrary to applicable laws and regulations, or in any way may cause harm to the Website, or to any person or business entity;
 * engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website;
 * using this Website to engage in any advertising or marketing;
-* Using any content, blog, or news items without explicit written permission of Communication Science.**​​​​​​​​​​​​​​**
+* Using any content, blog, news items or visuals without explicit written permission of Communication Science.**​​​​​​​**
+
+&nbsp;
+
+&nbsp;
 
 Certain areas of this Website are restricted from being access by you and Communication Science, Inc. may further restrict access by you to any areas of this Website, at any time, in absolute discretion. Any user ID and password you may have for this Website are confidential and you must maintain confidentiality as well.
 
 ## Your Content
 
-In these Website Standard Terms and Conditions, "Your Content" shall mean any audio, video text, images or other material you choose to display on this Website. By displaying Your Content, you grant Communication Science, Inc. a non-exclusive, worldwide irrevocable, sub licensable license to use, reproduce, adapt, publish, translate and distribute it in any and all media.
+In these Website Standard Terms and Conditions, “Your Content” shall mean any audio, video text, images or other material you choose to display on this Website. By displaying Your Content, you grant Communication Science, Inc. a non-exclusive, worldwide irrevocable, sub licensable license to use, reproduce, adapt, publish, translate and distribute it in any and all media.
 
 Your Content must be your own and must not be invading any third-party’s rights. Communication Science, Inc. reserves the right to remove any of Your Content from this Website at any time without notice.
 
 ## No warranties
 
-This Website is provided "as is," with all faults, and Communication Science, Inc. express no representations or warranties, of any kind related to this Website or the materials contained on this Website. Also, nothing contained on this Website shall be interpreted as advising you.
+This Website is provided “as is,” with all faults, and Communication Science, Inc. express no representations or warranties, of any kind related to this Website or the materials contained on this Website. Also, nothing contained on this Website shall be interpreted as advising you.
 
 ## Limitation of liability
 
