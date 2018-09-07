@@ -1,12 +1,14 @@
 ---
-title: Terms and Conditions for Communication Science, Inc.
+title: 'Terms and Conditions for Communication Science, Inc.'
 featured:
-  teaser_text: 
+  teaser_text:
   sort_order_number: 0
-main_image: 
+main_image:
 search_engine_optimization:
-  page_title: Terms and Conditions for Communication Science, Inc.
-  page_description:
+  page_title: 'Terms and Conditions for Communication Science, Inc.'
+  page_description: >-
+    This page provides restrictions, right, and related information about
+    accessing the site.
 layout: page
 ---
 
