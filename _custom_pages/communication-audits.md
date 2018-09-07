@@ -1,13 +1,27 @@
 ---
 title: Communication Audits
 featured:
-  teaser_text: "Working closely with you, we will evaluate your organization’s internal and external communications, identify your organization’s communications strengths and weaknesses, and suggest strategies for improving your communications."
+  teaser_text: >-
+    Working closely with you, we will evaluate your organization’s internal and
+    external communications, identify your organization’s communications
+    strengths and weaknesses, and suggest strategies for improving your
+    communications.
   sort_order_number: 4
 main_image: >-
   /assets/images/main-images/cardboard-communication-connecting-1246743_Comm_Audits.jpg
 search_engine_optimization:
-  page_title: Usability Testing
-  page_description:
+  page_title: Communication audits
+  page_description: >-
+    CSI provides communication audits to help organizations improve the
+    effectiveness of their internal and external communications. Communication
+    audits include assessing communication policies procedures and practices;
+    identifying internal and external audiences; client needs to know about
+    their respective audiences; determining the clients communication processes;
+    ascertaining the clients communication strengths; uncovering the clients
+    communication weaknesses or problems; based on the findings, recommend
+    strategies for improving communication policies procedures and practices,
+    improving print and electronic communication production, and implementing
+    continuing evaluation practices.
 layout: page
 ---
 
@@ -17,7 +31,7 @@ Working with you, we use a problem-solving process to evaluate your organization
 
 ---
 
-&nbsp;
+ 
 
 Our audits include:
 
@@ -33,6 +47,6 @@ Our audits include:
   * Print and electronic communication production
   * Print and electronic communications
 
-&nbsp;
+ 
 
 Photo Credit: Used by permission: rawPixel.com
