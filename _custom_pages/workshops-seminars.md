@@ -10,7 +10,19 @@ main_image: >-
   /assets/images/main-images/brainstorming-colleagues-communication-1204649_Workshops_Seminars.jpg
 search_engine_optimization:
   page_title: Usability Testing
-  page_description:
+  page_description: >-
+    For tailored workshops, CSI staff use a problem-solving, collaborative
+    process to identify the strengths and weakness of a staff member’s writing,
+    editing, and communication production knowledge and skills.  Based on the
+    findings, the CSI staff develops targeted, hands-on workshops and tutorials
+    to improve the clients writing, editing and production skills. 
+
+    CSI provides topic-based seminars to help your staff members improve their
+    understanding of communication and strategic communications.  The seminar
+    focus on e-mails; technical and scientific editing; technical report
+    writing; popularizing science & technology;  professional, technical, &
+    scientific writing; self-editing; targeting/tailoring communications;
+    writing for the web; producing PowerPoint presentations.
 layout: page
 ---
 
@@ -39,8 +51,6 @@ Our seminars include:
 * Targeting/tailoring communications to audiences (half day)
 * Writing for the web (full day)
 
-&nbsp;
+ 
 
 Photo Credit: Used by permission: rawPixel.com
-
-&nbsp;
