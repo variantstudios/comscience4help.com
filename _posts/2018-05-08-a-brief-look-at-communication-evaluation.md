@@ -2,10 +2,15 @@
 title: A Brief Look at Communication Evaluation
 date: 2018-05-08 00:00:00
 category: blog
-excerpt: 'No longer can professionals produce communications without capitalizing on evaluations to help understand their audiences and send better messages to their target audiences...'
+excerpt: >-
+  No longer can professionals produce communications without capitalizing on
+  evaluations to help understand their audiences and send better messages to
+  their target audiences...
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Blag Look Communication Evaluation
+  page_description: >-
+    The page provides a rationale for evaluating communications and overall
+    guidelines for evaluations.
 ---
 
 By Don Zimmerman, Ph.D., Principal, Communication Science, Inc.
