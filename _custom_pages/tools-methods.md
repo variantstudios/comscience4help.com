@@ -43,4 +43,6 @@ Our consultants bring decades of quantitative and qualitative research and evalu
 * Usability testing methods
 * Web & online surveys
 
-Photo Credit: Used by permission Pixaby.com
+&nbsp;
+
+Photo Credit: Used by permission Pixaby.com.
