@@ -44,7 +44,7 @@ You are specifically restricted from all of the following:
 
 Certain areas of this Website are restricted from being access by you and Communication Science, Inc. may further restrict access by you to any areas of this Website, at any time, in absolute discretion. Any user ID and password you may have for this Website are confidential and you must maintain confidentiality as well.
 
-For information, contact don@comscience4help.com.&nbsp;
+For information, contact don@comscience4help.com&nbsp;
 
 ## Your Content
 
