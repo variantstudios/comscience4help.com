@@ -7,8 +7,7 @@ search_engine_optimization:
     staff and their activities relevant to share on the web. Dr. Don Zimmerman,
     Ph.D. and Dr. Garrett O’Keefe writing, editing, and research and evaluation
     projects.
-page_category:
-  - news
+page_category: news
 _hide_page_category: true
 permalink: /news/
 _hide_permalink: true
