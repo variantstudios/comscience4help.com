@@ -12,8 +12,7 @@ search_engine_optimization:
     threats to validity, reliability, experimental designs, case studies,
     statistical analyses, pitfalls and limitations, and strategies to improve
     evaluations.
-page_category:
-  - blog
+page_category: blog
 _hide_page_category: true
 permalink: /blog/
 _hide_permalink: true
