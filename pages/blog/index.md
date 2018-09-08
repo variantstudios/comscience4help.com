@@ -12,16 +12,10 @@ search_engine_optimization:
     threats to validity, reliability, experimental designs, case studies,
     statistical analyses, pitfalls and limitations, and strategies to improve
     evaluations.
-page_category: blog
-_hide_page_category: true
+_page_category: blog
 permalink: /blog/
-_hide_permalink: true
 layout: posts
-_hide_layout: true
 class: blog
-_hide_class: true
 ---
 
 Copy below deleted. I don’t know how I did it. I’d drafted SEO paragraphs in MS Word and then pasted them into the Blog and News main pages.&nbsp; Also, I’d written the paragraphs dictating with Dragon.&nbsp;
-
-&nbsp;
