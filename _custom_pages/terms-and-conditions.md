@@ -32,21 +32,19 @@ You are granted limited license only for purposes of viewing the material contai
 
 You are specifically restricted from all of the following:
 
-* publishing any Website material in any other media;
-* selling, sublicensing and/or otherwise commercializing any Website material;
-* publicly performing and/or showing any Website material;
-* using this Website in any way that is or may be damaging to this Website;
-* using this Website in any way that impacts user access to this Website;
-* using this Website contrary to applicable laws and regulations, or in any way may cause harm to the Website, or to any person or business entity;
-* engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website;
-* using this Website to engage in any advertising or marketing;
-* Using any content, blog, news items or visuals without explicit written permission of Communication Science.**​​​​​​​**
-
-&nbsp;
-
-&nbsp;
+* publishing any Website material in any other media
+* selling, sublicensing and/or otherwise commercializing any Website material
+* publicly performing and/or showing any Website material
+* using this Website in any way that is or may be damaging to this Website
+* using this Website in any way that impacts user access to this Website
+* using this Website contrary to applicable laws and regulations, or in any way may cause harm to the Website, or to any person or business entity
+* engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website
+* using this Website to engage in any advertising or marketing
+* Using any content, blog, news items or visuals without explicit written permission of Communication Science, Inc.
 
 Certain areas of this Website are restricted from being access by you and Communication Science, Inc. may further restrict access by you to any areas of this Website, at any time, in absolute discretion. Any user ID and password you may have for this Website are confidential and you must maintain confidentiality as well.
+
+For information, contact don@comscience4help.com.
 
 ## Your Content
 
