@@ -6,7 +6,7 @@ layout: page
 <section class="blog-preface">{{ content }}</section>
 
 <section class="blog-wrapper">
-    {% assign cat = page.page_category %} 
+    {% assign cat = page._page_category %} 
     {% for post in site.posts %} 
     {% if post.category contains cat %}
     <div class="blog-item clearfix">
