@@ -19,3 +19,5 @@ class: blog
 ---
 
 Copy below deleted. I don’t know how I did it. I’d drafted SEO paragraphs in MS Word and then pasted them into the Blog and News main pages.&nbsp; Also, I’d written the paragraphs dictating with Dragon.&nbsp;
+
+&nbsp;
