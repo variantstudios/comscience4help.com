@@ -7,14 +7,10 @@ search_engine_optimization:
     staff and their activities relevant to share on the web. Dr. Don Zimmerman,
     Ph.D. and Dr. Garrett O’Keefe writing, editing, and research and evaluation
     projects.
-page_category: news
-_hide_page_category: true
+_page_category: news
 permalink: /news/
-_hide_permalink: true
 layout: posts
-_hide_layout: true
 class: posts
-_hide_class: true
 ---
 
 Copy below deleted. I don't know how I did it. I'd drafted SEO paragraphs in MS Word and then pasted them into the Blog and News main pages.&nbsp; Also, I'd written the paragraphs dictating with Dragon.&nbsp;
