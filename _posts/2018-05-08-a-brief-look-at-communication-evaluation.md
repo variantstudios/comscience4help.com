@@ -29,8 +29,6 @@ Formative evaluations include:
 * Assessing audiences’ characteristics
 * Testing of draft communications and campaigns
 
-&nbsp;
-
 To illustrate, consider how we evaluate prototype (draft) websites. Our approach includes:
 
 * Asking what will be the target audience’s first impression of the prototype website?
@@ -39,8 +37,6 @@ To illustrate, consider how we evaluate prototype (draft) websites. Our approach
   * Are the fonts large enough, legible, and easy to read?
   * Can users find the information they seek?
   * Asking do they understand the terminology used?
-
-&nbsp;
 
 Based on our findings and working collaboratively with our clients, we then recommend redesigns to improve websites.
 
@@ -53,8 +49,6 @@ In contrast to formative evaluations, summative evaluations assess the effective
 * Did members of the target audience see or pay attention to the communications? o If so, do they watch, read, or listen to the message?
 * Did they understand the message?
 * Did it change their information levels? Behaviors? Attitudes?
-
-&nbsp;
 
 Consider a summative evaluation example. A local condominium developer had slow sales. He asked us to evaluate his information communication campaign. He was spending $20,000 annually advertising his condos on one local radio station.
 
