@@ -38,10 +38,6 @@ Our services include:&nbsp;&nbsp;
 * Formative evaluations
 * Summative evaluations
 
-&nbsp;
-
-&nbsp;
-
 We use diverse research methodologies including:
 
 * Mail, web, & mixed mode surveys
