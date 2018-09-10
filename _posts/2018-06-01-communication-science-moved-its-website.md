@@ -8,7 +8,7 @@ search_engine_optimization:
   page_description:
 ---
 
-In summer 2018, Communication Science moved its Website to the CloudCannon content management software with support of Brent Robbins of Variant Studios of Fort Collins, Colorado.
+In summer 2018, Communication Science moved its Website to the CloudCannon content management software with support of Brent Robbins of Variant Studios of Fort Collins, Colorado.&nbsp;
 
 &nbsp;
 
