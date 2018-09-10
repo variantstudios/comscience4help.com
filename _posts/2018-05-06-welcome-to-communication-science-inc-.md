@@ -18,7 +18,7 @@ Effectively reaching your audiences—whether you call them publics, customers, 
 
 An information tsunami bombards them—they receive hundreds, if not thousands, of electronic, online, print, and face-to-face messages daily.
 
-Consider these research findings:
+Consider these research findings:&nbsp;
 
 * About 45% of the United States adult population has trouble reading simple news stories (U.S. Department of Education 2014).
 * About 16% of adults comprehend below the basic level of reading—i.e., they lack the ability to read and understand news stories.
