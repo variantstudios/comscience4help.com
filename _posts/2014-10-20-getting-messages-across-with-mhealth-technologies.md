@@ -8,4 +8,4 @@ search_engine_optimization:
   page_description:
 ---
 
-Dr. Don Zimmerman presented “Getting messages across” at the CRISP mHealth Workshop on October 20 at the Colorado School of Public Health (CSPH), Denver.
+Dr. Don Zimmerman presented “Getting messages across” at the CRISP mHealth Workshop on October 20 at the Colorado School of Public Health (CSPH), Denver.&nbsp;
