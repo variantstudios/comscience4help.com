@@ -53,10 +53,6 @@ For more than 25 years, we have conducted usability testing of websites, softwar
 
 ---
 
-&nbsp;
-
-&nbsp;
-
 Our usability services include:
 
 Card Sorting: Using a multi-stage, group-interviewing process, we ask a sample of your audiences to organize and label key ideas for websites, software, manuals, and other communications.
