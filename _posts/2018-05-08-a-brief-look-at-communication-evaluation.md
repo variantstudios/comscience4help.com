@@ -29,8 +29,6 @@ Formative evaluations include:
 * Assessing audiences’ characteristics
 * Testing of draft communications and campaigns
 
-&nbsp;
-
 To illustrate, consider how we evaluate prototype (draft) websites. Our approach includes:
 
 * Asking what will be the target audience’s first impression of the prototype website?
