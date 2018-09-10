@@ -14,3 +14,5 @@ class: posts
 ---
 
 ### News
+
+Periodically, we will post select news items to our website.
