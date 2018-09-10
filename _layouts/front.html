@@ -5,23 +5,7 @@ layout: default
 <div class="subpage-header"></div>
 <main>
     <div class="subpage with-sidebar clearfix">
-        <aside class="sidebar">
-            <h4>Recent Blog Posts:</h4>
-            <section class="blog-wrapper">
-
-                {% assign blog = site.posts | where: "category","blog" %} {% for post in blog limit:3 %} {% if post.category == 'blog' %}
-                <div class="blog-item">
-                    <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
-                    <p class="teaser-date">{{ post.date | date: "%a, %b %d, %Y" }}</p>
-                    {% if post.content %}
-                    <p class="teaser-text">{{ post.excerpt | strip_htm }}</p>
-                    <p class="teaser-link"><a href="{{ post.url }}">read more</a></p>
-                    {% endif %}
-                </div>
-                {% endif %} {% endfor %}
-
-            </section>
-        </aside>
+      
         <div class="content clearfix">
             <div class="editable">
 	<h4>Consulting &amp; Training Services&nbsp;</h4>
@@ -49,5 +33,24 @@ layout: default
                 </div>
             </div>
         </div>
+        
+          <aside class="sidebar">
+            <h4>Recent Blog Posts:</h4>
+            <section class="blog-wrapper">
+
+                {% assign blog = site.posts | where: "category","blog" %} {% for post in blog limit:3 %} {% if post.category == 'blog' %}
+                <div class="blog-item">
+                    <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+                    <p class="teaser-date">{{ post.date | date: "%a, %b %d, %Y" }}</p>
+                    {% if post.content %}
+                    <p class="teaser-text">{{ post.excerpt | strip_htm }}</p>
+                    <p class="teaser-link"><a href="{{ post.url }}">read more</a></p>
+                    {% endif %}
+                </div>
+                {% endif %} {% endfor %}
+
+            </section>
+        </aside>
+        
     </div>
 </main>
