@@ -18,6 +18,6 @@ layout: posts
 class: blog
 ---
 
-Periodically, we will provide blogs to provide readers with insights into key concepts, ideas, and strategies to improve their communications.&nbsp;&nbsp;
+Periodically, we will provide blogs to provide readers with insights into key concepts, ideas, and strategies to improve their communications.&nbsp; &nbsp;&nbsp;
 
 &nbsp;
