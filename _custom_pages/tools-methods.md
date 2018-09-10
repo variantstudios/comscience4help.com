@@ -23,7 +23,7 @@ layout: page-sidebar
 
 # Tools & Methods
 
-Our consultants bring decades of quantitative and qualitative research and evaluation expertise to help you evaluate your communications. Depending on your needs, we may use one or more of the methods listed below.
+Our consultants bring decades of quantitative and qualitative research and evaluation expertise to help you evaluate your communications. Depending on your needs, we may use one or more of the methods listed below.&nbsp;
 
 ---
 
@@ -42,6 +42,8 @@ Our consultants bring decades of quantitative and qualitative research and evalu
 * Summative evaluations
 * Usability testing methods
 * Web & online surveys
+
+&nbsp;
 
 &nbsp;
 
