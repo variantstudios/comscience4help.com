@@ -32,8 +32,6 @@ We provide tailored workshops and topic-based seminars for your staff members to
 
 ---
 
-&nbsp;
-
 ### Tailored workshops
 
 Working collaboratively with you, we use a problem-solving process to assess your staff members’ communication knowledge and skills. Based on our findings, we develop targeted, hands-on workshops to improve your staff members’ communication skills.
@@ -52,6 +50,8 @@ Our seminars include:
 * Saying more with less—tight writing (full day)
 * Targeting/tailoring communications to audiences (half day)
 * Writing for the web (full day)
+
+&nbsp;
 
 &nbsp;
 
