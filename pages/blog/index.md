@@ -18,6 +18,6 @@ layout: posts
 class: blog
 ---
 
-Copy below deleted. I don’t know how I did it. I’d drafted SEO paragraphs in MS Word and then pasted them into the Blog and News main pages.&nbsp; Also, I’d written the paragraphs dictating with Dragon.&nbsp;
+Periodically, we will provide blogs to provide readers with insights into key concepts, ideas, and strategies to improve their communications.
 
 &nbsp;
