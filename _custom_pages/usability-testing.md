@@ -49,9 +49,11 @@ layout: page
 
 # Usability Testing
 
-For more than 25 years, we have conducted usability testing of websites, software, instructions, training materials, and other media. After collecting, analyzing, and interpreting data, we write a report documenting our findings and present the results to our clients in a problem-solving meeting.&nbsp;
+For more than 25 years, we have conducted usability testing of websites, software, instructions, training materials, and other media. After collecting, analyzing, and interpreting data, we write a report documenting our findings and present the results to our clients in a problem-solving meeting.&nbsp;&nbsp;
 
 ---
+
+&nbsp;
 
 &nbsp;
 
