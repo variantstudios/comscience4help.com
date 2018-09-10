@@ -28,9 +28,11 @@ layout: page
 
 # Workshops & Seminars
 
-We provide tailored workshops and topic-based seminars for your staff members to improve their writing, editing, and communication-production skills.
+We provide tailored workshops and topic-based seminars for your staff members to improve their writing, editing, and communication-production skills.&nbsp;&nbsp;
 
 ---
+
+&nbsp;
 
 ### Tailored workshops
 
@@ -51,6 +53,8 @@ Our seminars include:
 * Targeting/tailoring communications to audiences (half day)
 * Writing for the web (full day)
 
- 
+&nbsp;
+
+&nbsp;
 
 Photo Credit: Used by permission: rawPixel.com
