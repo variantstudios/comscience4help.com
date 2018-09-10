@@ -21,11 +21,7 @@ Our consultants have served as researchers (principal investigators, co-principa
 
 ---
 
-&nbsp;
-
-&nbsp;
-
-### Research & Evaluation
+Research & Evaluation
 
 * AMC Cancer Research&nbsp;
 * Colorado Commission on Higher Education
