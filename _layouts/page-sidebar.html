@@ -4,7 +4,12 @@ layout: default
 <div class="subpage-header"></div>
 <main>
   <div class="subpage with-sidebar clearfix">
-      <aside class="sidebar">
+      
+     <div class="content clearfix">
+      {{ content }}
+    </div>
+    
+    <aside class="sidebar">
           <div class="sidebar--hero">
               <picture>
                   <!--[if IE 9]><video style="display: none;"><![endif]-->
@@ -15,9 +20,7 @@ layout: default
               </picture>
           </div>
       </aside>
-     <div class="content clearfix">
-      {{ content }}
-    </div>
+      
   </div>
 </main>
 
