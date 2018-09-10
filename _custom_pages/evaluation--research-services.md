@@ -30,7 +30,9 @@ Using a problem-solving, collaborative process, we obtain the information you ne
 
 ---
 
-Our services include:
+&nbsp;
+
+Our services include:&nbsp;&nbsp;
 
 * Audience identification & analyses
 * Evaluation of communication products & campaigns
@@ -38,11 +40,15 @@ Our services include:
 * Formative evaluations
 * Summative evaluations
 
+&nbsp;
+
 We use diverse research methodologies including:
 
 * Mail, web, & mixed mode surveys
 * Focus groups, nominal group technique, & Delphi techniques
 * In-depth individual interviews
 * Usability testing
+
+&nbsp;
 
 Photo Credit: Used by permission: rawPixel.com
