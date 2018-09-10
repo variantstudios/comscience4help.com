@@ -12,7 +12,7 @@ search_engine_optimization:
     focusing on the lack of reading skills about adults in the United States.
 ---
 
-By Don Zimmerman, Ph.D., Principal, Communication Science 
+By Don Zimmerman, Ph.D., Principal, Communication Science&nbsp;
 
 Effectively reaching your audiences—whether you call them publics, customers, or clients—is becoming more and more difficult.
 
