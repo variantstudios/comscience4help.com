@@ -3,7 +3,7 @@ title: Avoiding Survey Pitfalls--Pseudo-Data
 date: 2018-09-12 00:00:00
 category: blog
 excerpt: >-
-  Last week, I received such a call from a political pollster asking my opinions
+  Last week, I received a call from a political pollster asking my opinions
   about selected candidates and proposed Colorado legislation.  After a quick
   series of questions about national and state candidates, the surveyor then
   began asking about ballot initiatives.
@@ -14,7 +14,7 @@ search_engine_optimization:
 
 The 2018 mid-term election campaigns have begun.&nbsp; And political advertising dominates the media. And pollsters launched multiple surveys to assess voting preferences.
 
-Last week, I received such a call from a political pollster asking my opinions about selected candidates and proposed Colorado legislation.
+Last week, I received a call from a political pollster asking my opinions about selected candidates and proposed Colorado legislation.
 
 After a quick series of questions about national and state candidates, the surveyor then began asking about ballot initiatives.
 
