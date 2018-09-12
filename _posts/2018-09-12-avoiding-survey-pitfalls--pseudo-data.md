@@ -12,11 +12,7 @@ search_engine_optimization:
   page_description: The  blog explores pitfalls of surveys and focuses on pseudo-data.
 ---
 
-The 2018 mid-term election campaigns have begun.
-
-And political advertising dominates the media.
-
-And pollsters launched multiple surveys to assess voting preferences.
+The 2018 mid-term election campaigns have begun.&nbsp; And political advertising dominates the media. And pollsters launched multiple surveys to assess voting preferences.
 
 Last week, I received such a call from a political pollster asking my opinions about selected candidates and proposed Colorado legislation.
 
@@ -30,9 +26,9 @@ I stressed that my response would provide false information—pseudo-information
 
 That didn’t matter.
 
-She then read a lengthy explanation of the ballot issue and began asking a series of questions.  Possible responses ranged from strongly disagree, disagree, neutral, agree, strongly agree.
+She then read a lengthy explanation of the ballot issue and began asking a series of questions.&nbsp; Possible responses ranged from strongly disagree, disagree, neutral, agree, strongly agree.
 
-I couldn’t respond, “I don’t know.”  Or “I haven’t thought about it.”
+I couldn’t respond, “I don’t know.” &nbsp;Or “I haven’t thought about it.”
 
 I answered “Neutral.”
 
@@ -70,6 +66,6 @@ The answers to these questions begin to suggest the complexities and challenges 
 
 Other questions can be asked too.
 
-Universities and colleges offer multiple courses on developing surveys, designing studies, collecting data, data analysis, and interpreting the findings.  And academic publishers offer dozens of textbooks explaining how to conduct surveys, analyze the data, and interpret the results.
+Universities and colleges offer multiple courses on developing surveys, designing studies, collecting data, data analysis, and interpreting the findings.&nbsp; And academic publishers offer dozens of textbooks explaining how to conduct surveys, analyze the data, and interpret the results.
 
 The blogs that follow will explore methods for developing surveys for research and evaluation.
