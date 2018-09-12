@@ -22,7 +22,7 @@ When the surveyor asked about one initiative, I pointed out that I didn’t know
 
 I had not had time to think about the ballot initiative.
 
-I stressed that my response would provide false information—pseudo-information—that she should point it out to her supervisor.
+I stressed that my response would provide false information—pseudo-information— and that she should point it out to her supervisor.
 
 That didn’t matter.
 
