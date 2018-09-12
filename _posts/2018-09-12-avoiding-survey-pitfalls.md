@@ -12,7 +12,7 @@ search_engine_optimization:
     conducting online surveys.
 ---
 
-Communication Science launches a series of blogs on the pitfalls of conducting online surveys.
+Communication Science launches a series of blogs on the pitfalls of conducting online surveys.&nbsp;
 
 The first blog focuses on pseudo-data.
 
