@@ -32,7 +32,7 @@ I couldn’t respond, “I don’t know.” &nbsp;Or “I haven’t thought abou
 
 I answered “Neutral.”
 
-The survey was collecting what has been called pseudo data.
+The survey was collecting what has been called pseudo-data.
 
 Nearly 50 years ago, Steven H. Chaffee, Stanford, Ph.D., and one of the leading researchers on communication research, pointed out that researchers too often collect what he called pseudo-data.
 
@@ -42,25 +42,18 @@ Pseudo-data is false data—i.e., it does not represent respondents’ real awar
 
 When planning surveys, researchers and pollsters should ask,
 
-Who are the appropriate people to ask about the topic?
-
-Is a survey the appropriate method to gather information about people’s awareness, understanding, attitudes, and related behaviors—voting in this case?
+* Who are the appropriate people to ask about the topic?
+* Is a survey the appropriate method to gather information about people’s awareness, understanding, attitudes, and related behaviors—voting in this case?
 
 Then researchers and pollsters should ask additional planning questions, such as
 
-Will the potential respondents be aware of the topic?
-
-If they are aware of related details about the topic?
-
-If so, how did they learn about the topic?
-
-Is topic relevant—i.e., important—to potential respondents?
-
-What information or misinformation might potential respondents have?
-
-If so, had they had time to think about it? Form opinions?
-
-Would they then act on their opinions?
+* Will the potential respondents be aware of the topic?
+* If they are aware of related details about the topic?
+* If so, how did they learn about the topic?
+* Is topic relevant—i.e., important—to potential respondents?
+* What information or misinformation might potential respondents have?
+* If so, had they had time to think about it? Form opinions?
+* Would they then act on their opinions?
 
 The answers to these questions begin to suggest the complexities and challenges of survey research that will provide valid and reliable information for making decisions.
 
