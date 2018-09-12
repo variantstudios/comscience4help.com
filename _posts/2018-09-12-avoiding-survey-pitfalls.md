@@ -26,4 +26,4 @@ The first blog focuses on pseudo-data.
 
 For the untrained, surveys are fraught with pitfalls that can produce faulty data and result in erroneous conclusions.
 
-The blogs will identify the major pitfall and then suggest guidelines to avoid the pitfalls.
+The blogs will identify the major pitfall and then suggest guidelines to avoid the pitfalls.&nbsp; &nbsp;
