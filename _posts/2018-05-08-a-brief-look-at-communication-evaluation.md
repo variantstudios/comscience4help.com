@@ -13,7 +13,7 @@ search_engine_optimization:
     guidelines for evaluations.
 ---
 
-By Don Zimmerman, Ph.D.
+By Don Zimmerman, Ph.D., Principal, Communication Science, Inc.&nbsp;
 
 No longer can professionals produce communications without capitalizing on evaluations to help understand their audiences and send better messages to their target audiences.
 
@@ -31,6 +31,8 @@ Formative evaluations include:
 
 &nbsp;
 
+&nbsp;
+
 To illustrate, consider how we evaluate prototype (draft) websites. Our approach includes:
 
 * Asking what will be the target audience’s first impression of the prototype website?
@@ -39,6 +41,8 @@ To illustrate, consider how we evaluate prototype (draft) websites. Our approach
   * Are the fonts large enough, legible, and easy to read?
   * Can users find the information they seek?
   * Asking do they understand the terminology used?
+
+&nbsp;
 
 &nbsp;
 
@@ -53,6 +57,8 @@ In contrast to formative evaluations, summative evaluations assess the effective
 * Did members of the target audience see or pay attention to the communications? o If so, do they watch, read, or listen to the message?
 * Did they understand the message?
 * Did it change their information levels? Behaviors? Attitudes?
+
+&nbsp;
 
 &nbsp;
 
