@@ -12,6 +12,8 @@ search_engine_optimization:
   page_description: The  blog explores pitfalls of surveys and focuses on pseudo-data.
 ---
 
+By Don Zimmerman, Ph.D., Principal, Communication Science, Inc.&nbsp;
+
 The 2018 mid-term election campaigns have begun.&nbsp; And political advertising dominates the media. And pollsters launched multiple surveys to assess voting preferences.
 
 Last week, I received a call from a political pollster asking my opinions about selected candidates and proposed Colorado legislation.
@@ -45,6 +47,8 @@ When planning surveys, researchers and pollsters should ask,
 * Who are the appropriate people to ask about the topic?
 * Is a survey the appropriate method to gather information about people’s awareness, understanding, attitudes, and related behaviors—voting in this case?
 
+&nbsp;
+
 Then researchers and pollsters should ask additional planning questions, such as
 
 * Will the potential respondents be aware of the topic?
@@ -54,6 +58,8 @@ Then researchers and pollsters should ask additional planning questions, such as
 * What information or misinformation might potential respondents have?
 * If so, had they had time to think about it? Form opinions?
 * Would they then act on their opinions?
+
+&nbsp;
 
 The answers to these questions begin to suggest the complexities and challenges of survey research that will provide valid and reliable information for making decisions.
 
