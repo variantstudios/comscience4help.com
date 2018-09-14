@@ -3,7 +3,7 @@ title: "Communication Science"
 email: "team@variantstudios.com"
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog/ - keep empty!
-url: "https://casual-candle.cloudvent.net" # the base hostname & protocol for your site - don't include the forward slash
+url: "https://comscience4help.com" # the base hostname & protocol for your site - don't include the forward slash
 #timezone: America/Denver - Don't set for CloudCannon...for reasons.
 version: "3.8.2" # the version of jekyll
 
@@ -121,7 +121,7 @@ _comments:
 cloudinaryurl: 'https://res.cloudinary.com/communication-science-inc/'
 
 # Google Analytics 
-#google_analytics_tracking_id: 'UA-125669898-1'
+google_analytics_tracking_id: 'UA-125669898-1'
 
 
 exclude: [
