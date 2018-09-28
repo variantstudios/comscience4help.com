@@ -23,7 +23,7 @@ permalink: pretty
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
-  endings: all
+  endings: []
   ignore:
     envs: [local]
   blanklines: false
@@ -114,9 +114,6 @@ _options:
     
 _comments:
   share_image_path: "The social share image needs to be at least 1200x1200px and if not that exact same size CloudCannon will scale and crop it to 1200x1200."
-  gys_companies: "Select the one or multiple GYS company where this asset should be listed under."
-  opening: "This is optional. If it applies please use the Month abbreviation and year. ie: Dec 2018"
-
 # Cloudinary
 cloudinaryurl: 'https://res.cloudinary.com/communication-science-inc/'
 
